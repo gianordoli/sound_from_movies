@@ -1,0 +1,6362 @@
+{"subs": [
+  {
+    "speech": "mother: i don't really pray",
+    "index": 1,
+    "start": 23,
+    "end": 26
+  },
+  {
+    "speech": "but if you could just help me out here",
+    "index": 2,
+    "start": 25,
+    "end": 29
+  },
+  {
+    "speech": "i promise",
+    "index": 3,
+    "start": 28,
+    "end": 30
+  },
+  {
+    "speech": "mother: 105",
+    "index": 4,
+    "start": 32,
+    "end": 35
+  },
+  {
+    "speech": "mother: 105",
+    "index": 5,
+    "start": 34,
+    "end": 37
+  },
+  {
+    "speech": "mother: oh, my god",
+    "index": 6,
+    "start": 36,
+    "end": 38
+  },
+  {
+    "speech": "run a bath, call the doctor",
+    "index": 7,
+    "start": 38,
+    "end": 41
+  },
+  {
+    "speech": "get her into the bath",
+    "index": 8,
+    "start": 40,
+    "end": 43
+  },
+  {
+    "speech": "dr. carter, 455",
+    "index": 9,
+    "start": 42,
+    "end": 45
+  },
+  {
+    "speech": "he won't be there",
+    "index": 10,
+    "start": 45,
+    "end": 47
+  },
+  {
+    "speech": "what is a thermometer? mercury",
+    "index": 11,
+    "start": 46,
+    "end": 49
+  },
+  {
+    "speech": "how does it even work? maybe i can page him",
+    "index": 12,
+    "start": 49,
+    "end": 52
+  },
+  {
+    "speech": "mother: susan. susie",
+    "index": 13,
+    "start": 52,
+    "end": 55
+  },
+  {
+    "speech": "mommy says get up now",
+    "index": 14,
+    "start": 55,
+    "end": 57
+  },
+  {
+    "speech": "susan: cold. - i know",
+    "index": 15,
+    "start": 57,
+    "end": 59
+  },
+  {
+    "speech": "hang on",
+    "index": 16,
+    "start": 59,
+    "end": 61
+  },
+  {
+    "speech": "susan: cold",
+    "index": 17,
+    "start": 63,
+    "end": 64
+  },
+  {
+    "speech": "mother: it just feels cold because you're so hot",
+    "index": 18,
+    "start": 64,
+    "end": 67
+  },
+  {
+    "speech": "mother: susan, stay with me. susan",
+    "index": 19,
+    "start": 67,
+    "end": 70
+  },
+  {
+    "speech": "mother: susan",
+    "index": 20,
+    "start": 70,
+    "end": 72
+  },
+  {
+    "speech": "doctor: has she been disoriented? confused",
+    "index": 21,
+    "start": 74,
+    "end": 77
+  },
+  {
+    "speech": "mother: she said that she saw a man in her bedroom",
+    "index": 22,
+    "start": 76,
+    "end": 80
+  },
+  {
+    "speech": "are you cold",
+    "index": 23,
+    "start": 83,
+    "end": 84
+  },
+  {
+    "speech": "male nurse: okay, swing it",
+    "index": 24,
+    "start": 87,
+    "end": 89
+  },
+  {
+    "speech": "female nurse: move it, people. doctor: ls room 2 clear",
+    "index": 25,
+    "start": 89,
+    "end": 91
+  },
+  {
+    "speech": "male nurse: yes, it's clear",
+    "index": 26,
+    "start": 91,
+    "end": 93
+  },
+  {
+    "speech": "male nurse: get her pressure",
+    "index": 27,
+    "start": 92,
+    "end": 95
+  },
+  {
+    "speech": "doctor: let's give her o2. ten liters",
+    "index": 28,
+    "start": 94,
+    "end": 97
+  },
+  {
+    "speech": "female nurse: tap her right away",
+    "index": 29,
+    "start": 96,
+    "end": 99
+  },
+  {
+    "speech": "doctor: how's her breathing",
+    "index": 30,
+    "start": 106,
+    "end": 108
+  },
+  {
+    "speech": "female nurse: no pulse or rhythm",
+    "index": 31,
+    "start": 129,
+    "end": 131
+  },
+  {
+    "speech": "are you god",
+    "index": 32,
+    "start": 132,
+    "end": 134
+  },
+  {
+    "speech": "no",
+    "index": 33,
+    "start": 135,
+    "end": 137
+  },
+  {
+    "speech": "my name is seth",
+    "index": 34,
+    "start": 136,
+    "end": 139
+  },
+  {
+    "speech": "where are we going",
+    "index": 35,
+    "start": 138,
+    "end": 140
+  },
+  {
+    "speech": "home",
+    "index": 36,
+    "start": 140,
+    "end": 142
+  },
+  {
+    "speech": "can mommy come",
+    "index": 37,
+    "start": 142,
+    "end": 145
+  },
+  {
+    "speech": "no",
+    "index": 38,
+    "start": 144,
+    "end": 146
+  },
+  {
+    "speech": "she won't understand",
+    "index": 39,
+    "start": 154,
+    "end": 157
+  },
+  {
+    "speech": "she will",
+    "index": 40,
+    "start": 156,
+    "end": 158
+  },
+  {
+    "speech": "someday",
+    "index": 41,
+    "start": 158,
+    "end": 160
+  },
+  {
+    "speech": "seth: can i ask you something",
+    "index": 42,
+    "start": 167,
+    "end": 169
+  },
+  {
+    "speech": "susan: yes",
+    "index": 43,
+    "start": 169,
+    "end": 171
+  },
+  {
+    "speech": "seth: what did you like best",
+    "index": 44,
+    "start": 171,
+    "end": 174
+  },
+  {
+    "speech": "susan: pajamas",
+    "index": 45,
+    "start": 174,
+    "end": 177
+  },
+  {
+    "speech": "seth: she definitely knew what she liked",
+    "index": 46,
+    "start": 201,
+    "end": 204
+  },
+  {
+    "speech": "cassiel: pajamas? seth: flannel, with feet",
+    "index": 47,
+    "start": 204,
+    "end": 208
+  },
+  {
+    "speech": "pajamas",
+    "index": 48,
+    "start": 207,
+    "end": 209
+  },
+  {
+    "speech": "excellent choice. what else",
+    "index": 49,
+    "start": 209,
+    "end": 212
+  },
+  {
+    "speech": "in the elevator of the bradbury building",
+    "index": 50,
+    "start": 212,
+    "end": 215
+  },
+  {
+    "speech": "a man touched a woman's bare skin by accident",
+    "index": 51,
+    "start": 215,
+    "end": 219
+  },
+  {
+    "speech": "but it made her turn and look at him in such a way",
+    "index": 52,
+    "start": 219,
+    "end": 222
+  },
+  {
+    "speech": "and they",
+    "index": 53,
+    "start": 223,
+    "end": 225
+  },
+  {
+    "speech": "yes",
+    "index": 54,
+    "start": 225,
+    "end": 227
+  },
+  {
+    "speech": "it was a good day",
+    "index": 55,
+    "start": 227,
+    "end": 230
+  },
+  {
+    "speech": "do you ever wonder what that would be like",
+    "index": 56,
+    "start": 229,
+    "end": 232
+  },
+  {
+    "speech": "touch",
+    "index": 57,
+    "start": 232,
+    "end": 234
+  },
+  {
+    "speech": "no",
+    "index": 58,
+    "start": 234,
+    "end": 236
+  },
+  {
+    "speech": "yes, you do",
+    "index": 59,
+    "start": 236,
+    "end": 238
+  },
+  {
+    "speech": "occasionally. yes",
+    "index": 60,
+    "start": 239,
+    "end": 242
+  },
+  {
+    "speech": "cassiel: touch",
+    "index": 61,
+    "start": 243,
+    "end": 245
+  },
+  {
+    "speech": "man: i'm not asking for it every night. just twice a week",
+    "index": 62,
+    "start": 261,
+    "end": 265
+  },
+  {
+    "speech": "woman: blue eyes. he's never going to leave her",
+    "index": 63,
+    "start": 264,
+    "end": 268
+  },
+  {
+    "speech": "foreigner: 20 minutes. everything in this damn city is 20 minutes",
+    "index": 64,
+    "start": 267,
+    "end": 272
+  },
+  {
+    "speech": "foreigner: it's never 20 minutes",
+    "index": 65,
+    "start": 271,
+    "end": 274
+  },
+  {
+    "speech": "seamstress 1 : my ass on a stool all day. she gets the good chair",
+    "index": 66,
+    "start": 294,
+    "end": 298
+  },
+  {
+    "speech": "seamstress 2: six pounds, four ounces",
+    "index": 67,
+    "start": 299,
+    "end": 302
+  },
+  {
+    "speech": "my daughter has a daughter",
+    "index": 68,
+    "start": 301,
+    "end": 304
+  },
+  {
+    "speech": "controller: $20,000 at 21 percent",
+    "index": 69,
+    "start": 315,
+    "end": 318
+  },
+  {
+    "speech": "pay it off with another card at 14 percent",
+    "index": 70,
+    "start": 317,
+    "end": 321
+  },
+  {
+    "speech": "ah, shit",
+    "index": 71,
+    "start": 321,
+    "end": 323
+  },
+  {
+    "speech": "federal 595 heavy, slow immediately to match preceding aircraft. over",
+    "index": 72,
+    "start": 322,
+    "end": 327
+  },
+  {
+    "speech": "controller: jesus, wake up! wake up",
+    "index": 73,
+    "start": 326,
+    "end": 329
+  },
+  {
+    "speech": "seth: the little girl asked me if she could be an angel",
+    "index": 74,
+    "start": 343,
+    "end": 346
+  },
+  {
+    "speech": "cassiel: they all want wings",
+    "index": 75,
+    "start": 346,
+    "end": 349
+  },
+  {
+    "speech": "seth: i never know what to say",
+    "index": 76,
+    "start": 348,
+    "end": 351
+  },
+  {
+    "speech": "cassiel: tell them the truth",
+    "index": 77,
+    "start": 350,
+    "end": 353
+  },
+  {
+    "speech": "cassiel: angels aren't human",
+    "index": 78,
+    "start": 352,
+    "end": 355
+  },
+  {
+    "speech": "cassiel: we were never human",
+    "index": 79,
+    "start": 354,
+    "end": 357
+  },
+  {
+    "speech": "what if i just make her a little pair of wings out of paper",
+    "index": 80,
+    "start": 357,
+    "end": 361
+  },
+  {
+    "speech": "tell her the truth",
+    "index": 81,
+    "start": 360,
+    "end": 363
+  },
+  {
+    "speech": "seth: i told her",
+    "index": 82,
+    "start": 362,
+    "end": 365
+  },
+  {
+    "speech": "cassiel: how did she take it",
+    "index": 83,
+    "start": 366,
+    "end": 368
+  },
+  {
+    "speech": "she said, \"what good would wings be if you couldn't feel wind on your face",
+    "index": 84,
+    "start": 368,
+    "end": 373
+  },
+  {
+    "speech": "[ angelic music ]",
+    "index": 85,
+    "start": 375,
+    "end": 378
+  },
+  {
+    "speech": "[ over radio ] on the 101 through downtown l.a., no delays",
+    "index": 86,
+    "start": 397,
+    "end": 401
+  },
+  {
+    "speech": "man: shit! jesus",
+    "index": 87,
+    "start": 402,
+    "end": 404
+  },
+  {
+    "speech": "[ beeper ]",
+    "index": 88,
+    "start": 435,
+    "end": 437
+  },
+  {
+    "speech": "maggie: what do we got",
+    "index": 89,
+    "start": 470,
+    "end": 472
+  },
+  {
+    "speech": "aid: 50-year-old had a huge anterior wall mi this morning",
+    "index": 90,
+    "start": 471,
+    "end": 474
+  },
+  {
+    "speech": "collapsed while jogging",
+    "index": 91,
+    "start": 474,
+    "end": 476
+  },
+  {
+    "speech": "paramedics resuscitated him, but his ekg's pretty ugly",
+    "index": 92,
+    "start": 476,
+    "end": 479
+  },
+  {
+    "speech": "aid: he's hypertensive",
+    "index": 93,
+    "start": 479,
+    "end": 481
+  },
+  {
+    "speech": "maggie: this diagonal looks tight",
+    "index": 94,
+    "start": 480,
+    "end": 482
+  },
+  {
+    "speech": "who cathed him",
+    "index": 95,
+    "start": 482,
+    "end": 485
+  },
+  {
+    "speech": "rosenberg",
+    "index": 96,
+    "start": 484,
+    "end": 486
+  },
+  {
+    "speech": "maggie: be right in. aid: the patient wants to meet you",
+    "index": 97,
+    "start": 487,
+    "end": 490
+  },
+  {
+    "speech": "tom: he's pretty out of it",
+    "index": 98,
+    "start": 501,
+    "end": 504
+  },
+  {
+    "speech": "nurse 1 : the doctor's here",
+    "index": 99,
+    "start": 505,
+    "end": 508
+  },
+  {
+    "speech": "maggie: we're just going to cool to 32 today",
+    "index": 100,
+    "start": 530,
+    "end": 532
+  },
+  {
+    "speech": "maggie: sucker",
+    "index": 101,
+    "start": 533,
+    "end": 535
+  },
+  {
+    "speech": "maggie: jimi",
+    "index": 102,
+    "start": 537,
+    "end": 539
+  },
+  {
+    "speech": "[ jimi hendrix music ]",
+    "index": 103,
+    "start": 542,
+    "end": 544
+  },
+  {
+    "speech": "maggie: vein",
+    "index": 104,
+    "start": 554,
+    "end": 556
+  },
+  {
+    "speech": "aid: kid started walking",
+    "index": 105,
+    "start": 569,
+    "end": 572
+  },
+  {
+    "speech": "aid: three unassisted steps",
+    "index": 106,
+    "start": 572,
+    "end": 575
+  },
+  {
+    "speech": "maggie: get it on video? aid: i wasn't even there",
+    "index": 107,
+    "start": 574,
+    "end": 578
+  },
+  {
+    "speech": "maggie: you failed as a father already. how does that feel",
+    "index": 108,
+    "start": 578,
+    "end": 581
+  },
+  {
+    "speech": "[ maggie laughs ]",
+    "index": 109,
+    "start": 581,
+    "end": 583
+  },
+  {
+    "speech": "maggie: retrograde on",
+    "index": 110,
+    "start": 584,
+    "end": 586
+  },
+  {
+    "speech": "maggie: come down to half flow, give me a little volume",
+    "index": 111,
+    "start": 589,
+    "end": 592
+  },
+  {
+    "speech": "tom: down to half flow, here's your volume",
+    "index": 112,
+    "start": 592,
+    "end": 594
+  },
+  {
+    "speech": "maggie: ready to come off? tom: ready",
+    "index": 113,
+    "start": 593,
+    "end": 596
+  },
+  {
+    "speech": "maggie: let's come off",
+    "index": 114,
+    "start": 595,
+    "end": 597
+  },
+  {
+    "speech": "tom: we're coming down",
+    "index": 115,
+    "start": 596,
+    "end": 598
+  },
+  {
+    "speech": "tom: we're clamped and off bypass",
+    "index": 116,
+    "start": 598,
+    "end": 602
+  },
+  {
+    "speech": "nurse 2: oh, shit",
+    "index": 117,
+    "start": 624,
+    "end": 626
+  },
+  {
+    "speech": "maggie: what are you missing",
+    "index": 118,
+    "start": 626,
+    "end": 629
+  },
+  {
+    "speech": "nurse 2: sponge",
+    "index": 119,
+    "start": 628,
+    "end": 630
+  },
+  {
+    "speech": "aid: bummer",
+    "index": 120,
+    "start": 630,
+    "end": 632
+  },
+  {
+    "speech": "nurse 2: got it",
+    "index": 121,
+    "start": 637,
+    "end": 639
+  },
+  {
+    "speech": "maggie: thank you, everybody",
+    "index": 122,
+    "start": 644,
+    "end": 646
+  },
+  {
+    "speech": "nurse 2: presbyterian's on line 2",
+    "index": 123,
+    "start": 646,
+    "end": 648
+  },
+  {
+    "speech": "maggie: his rhythm will be irritable",
+    "index": 124,
+    "start": 648,
+    "end": 650
+  },
+  {
+    "speech": "nurse 2: she's getting good, huh? aid: she's getting that attitude too",
+    "index": 125,
+    "start": 653,
+    "end": 657
+  },
+  {
+    "speech": "nurse 2: getting an attitude",
+    "index": 126,
+    "start": 656,
+    "end": 659
+  },
+  {
+    "speech": "[ alarm ]",
+    "index": 127,
+    "start": 659,
+    "end": 660
+  },
+  {
+    "speech": "doctor: shit! v-tac",
+    "index": 128,
+    "start": 660,
+    "end": 662
+  },
+  {
+    "speech": "aid: christ! paddles",
+    "index": 129,
+    "start": 662,
+    "end": 664
+  },
+  {
+    "speech": "aid: kill the music. get her back",
+    "index": 130,
+    "start": 663,
+    "end": 666
+  },
+  {
+    "speech": "aid: charge to 2. nurse 2: charging 200",
+    "index": 131,
+    "start": 665,
+    "end": 668
+  },
+  {
+    "speech": "nurse 1 : dr. rice",
+    "index": 132,
+    "start": 669,
+    "end": 671
+  },
+  {
+    "speech": "aid: clear",
+    "index": 133,
+    "start": 676,
+    "end": 678
+  },
+  {
+    "speech": "doctor: no pressure. maggie: you give him lidocaine",
+    "index": 134,
+    "start": 678,
+    "end": 681
+  },
+  {
+    "speech": "doctor: 100's gone in",
+    "index": 135,
+    "start": 680,
+    "end": 682
+  },
+  {
+    "speech": "maggie: buzz him again at 300",
+    "index": 136,
+    "start": 681,
+    "end": 683
+  },
+  {
+    "speech": "doctor: still nothing. maggie: start compression",
+    "index": 137,
+    "start": 685,
+    "end": 687
+  },
+  {
+    "speech": "maggie: kill the alarm",
+    "index": 138,
+    "start": 686,
+    "end": 688
+  },
+  {
+    "speech": "maggie: hold up. it's not working",
+    "index": 139,
+    "start": 692,
+    "end": 695
+  },
+  {
+    "speech": "maggie: got to open him. how long to go back on",
+    "index": 140,
+    "start": 694,
+    "end": 697
+  },
+  {
+    "speech": "tom: it'll take me 10 minutes",
+    "index": 141,
+    "start": 696,
+    "end": 699
+  },
+  {
+    "speech": "aid: come on! nothing",
+    "index": 142,
+    "start": 698,
+    "end": 701
+  },
+  {
+    "speech": "maggie: knife",
+    "index": 143,
+    "start": 700,
+    "end": 702
+  },
+  {
+    "speech": "maggie: lnternal paddles. charge to 20",
+    "index": 144,
+    "start": 709,
+    "end": 712
+  },
+  {
+    "speech": "aid: ready",
+    "index": 145,
+    "start": 712,
+    "end": 713
+  },
+  {
+    "speech": "maggie: hit it",
+    "index": 146,
+    "start": 713,
+    "end": 715
+  },
+  {
+    "speech": "aid: nada",
+    "index": 147,
+    "start": 715,
+    "end": 717
+  },
+  {
+    "speech": "maggie: go to 30",
+    "index": 148,
+    "start": 716,
+    "end": 718
+  },
+  {
+    "speech": "maggie: hit it",
+    "index": 149,
+    "start": 718,
+    "end": 720
+  },
+  {
+    "speech": "aid: no response",
+    "index": 150,
+    "start": 719,
+    "end": 722
+  },
+  {
+    "speech": "maggie: tom, i got to get back on bypass here",
+    "index": 151,
+    "start": 721,
+    "end": 724
+  },
+  {
+    "speech": "tom: almost there. give me 7 more minutes",
+    "index": 152,
+    "start": 723,
+    "end": 726
+  },
+  {
+    "speech": "maggie: come on",
+    "index": 153,
+    "start": 725,
+    "end": 727
+  },
+  {
+    "speech": "maggie: don't do this",
+    "index": 154,
+    "start": 729,
+    "end": 731
+  },
+  {
+    "speech": "doctor: he's going",
+    "index": 155,
+    "start": 732,
+    "end": 734
+  },
+  {
+    "speech": "maggie: he's not going anywhere",
+    "index": 156,
+    "start": 733,
+    "end": 735
+  },
+  {
+    "speech": "maggie: come on, don't do this",
+    "index": 157,
+    "start": 744,
+    "end": 747
+  },
+  {
+    "speech": "maggie: damn it, come on",
+    "index": 158,
+    "start": 749,
+    "end": 751
+  },
+  {
+    "speech": "maggie: tom",
+    "index": 159,
+    "start": 752,
+    "end": 754
+  },
+  {
+    "speech": "maggie: come on",
+    "index": 160,
+    "start": 755,
+    "end": 757
+  },
+  {
+    "speech": "maggie: tom",
+    "index": 161,
+    "start": 761,
+    "end": 763
+  },
+  {
+    "speech": "maggie: mrs. balford",
+    "index": 162,
+    "start": 778,
+    "end": 780
+  },
+  {
+    "speech": "where's the doctor",
+    "index": 163,
+    "start": 781,
+    "end": 783
+  },
+  {
+    "speech": " i'm the doctor. - i'm sorry",
+    "index": 164,
+    "start": 783,
+    "end": 786
+  },
+  {
+    "speech": "i operated on your husband",
+    "index": 165,
+    "start": 787,
+    "end": 790
+  },
+  {
+    "speech": "how is he",
+    "index": 166,
+    "start": 789,
+    "end": 791
+  },
+  {
+    "speech": "he didn't survive",
+    "index": 167,
+    "start": 793,
+    "end": 795
+  },
+  {
+    "speech": "what",
+    "index": 168,
+    "start": 797,
+    "end": 799
+  },
+  {
+    "speech": "we were able to restore blood flow to the heart",
+    "index": 169,
+    "start": 801,
+    "end": 804
+  },
+  {
+    "speech": "but he developed a lethal arrhythmia and we couldn't resuscitate him",
+    "index": 170,
+    "start": 803,
+    "end": 807
+  },
+  {
+    "speech": "wait. i'm sorry, i don't understand. a what",
+    "index": 171,
+    "start": 807,
+    "end": 811
+  },
+  {
+    "speech": "i'm sorry",
+    "index": 172,
+    "start": 814,
+    "end": 816
+  },
+  {
+    "speech": "excuse me. i'm sorry",
+    "index": 173,
+    "start": 821,
+    "end": 823
+  },
+  {
+    "speech": "what did you say",
+    "index": 174,
+    "start": 823,
+    "end": 826
+  },
+  {
+    "speech": "what",
+    "index": 175,
+    "start": 828,
+    "end": 830
+  },
+  {
+    "speech": "daughter: oh, my god",
+    "index": 176,
+    "start": 830,
+    "end": 832
+  },
+  {
+    "speech": "maggie: on the table, on my table. i'm sorry",
+    "index": 177,
+    "start": 860,
+    "end": 863
+  },
+  {
+    "speech": "maggie: i'm sorry",
+    "index": 178,
+    "start": 863,
+    "end": 865
+  },
+  {
+    "speech": "maggie: i'm sorry. what happened? what happened",
+    "index": 179,
+    "start": 867,
+    "end": 870
+  },
+  {
+    "speech": "a graft occlusion? what",
+    "index": 180,
+    "start": 869,
+    "end": 872
+  },
+  {
+    "speech": "it was textbook. it was textbook",
+    "index": 181,
+    "start": 873,
+    "end": 877
+  },
+  {
+    "speech": "i'm so sorry",
+    "index": 182,
+    "start": 882,
+    "end": 884
+  },
+  {
+    "speech": "the room got so big. i was so small",
+    "index": 183,
+    "start": 886,
+    "end": 889
+  },
+  {
+    "speech": "how did i get so small",
+    "index": 184,
+    "start": 888,
+    "end": 891
+  },
+  {
+    "speech": "i should've gone back on",
+    "index": 185,
+    "start": 891,
+    "end": 893
+  },
+  {
+    "speech": "i should've massaged longer",
+    "index": 186,
+    "start": 892,
+    "end": 896
+  },
+  {
+    "speech": "i should've gone back on. massaged longer. i lost it",
+    "index": 187,
+    "start": 895,
+    "end": 899
+  },
+  {
+    "speech": "i lost it",
+    "index": 188,
+    "start": 900,
+    "end": 903
+  },
+  {
+    "speech": "have you ever been seen, cassiel",
+    "index": 189,
+    "start": 920,
+    "end": 923
+  },
+  {
+    "speech": "you're looking at me",
+    "index": 190,
+    "start": 923,
+    "end": 925
+  },
+  {
+    "speech": "no, not by me, and not by the dying or the delirious",
+    "index": 191,
+    "start": 925,
+    "end": 930
+  },
+  {
+    "speech": "have you ever been seen",
+    "index": 192,
+    "start": 929,
+    "end": 932
+  },
+  {
+    "speech": "like you were a man",
+    "index": 193,
+    "start": 932,
+    "end": 934
+  },
+  {
+    "speech": "in a diner once, a blind woman turned to me all of a sudden",
+    "index": 194,
+    "start": 935,
+    "end": 940
+  },
+  {
+    "speech": "and asked me to pass her the mustard",
+    "index": 195,
+    "start": 939,
+    "end": 942
+  },
+  {
+    "speech": " but she was blind. - but she knew i was there",
+    "index": 196,
+    "start": 942,
+    "end": 946
+  },
+  {
+    "speech": "that doctor in the operating room",
+    "index": 197,
+    "start": 946,
+    "end": 950
+  },
+  {
+    "speech": "she looked right at me",
+    "index": 198,
+    "start": 951,
+    "end": 954
+  },
+  {
+    "speech": "she didn't see you, seth. she can't see you",
+    "index": 199,
+    "start": 953,
+    "end": 956
+  },
+  {
+    "speech": "no one can see you unless you want them to",
+    "index": 200,
+    "start": 956,
+    "end": 959
+  },
+  {
+    "speech": "and if i want her to",
+    "index": 201,
+    "start": 959,
+    "end": 961
+  },
+  {
+    "speech": "why do you want her to",
+    "index": 202,
+    "start": 961,
+    "end": 964
+  },
+  {
+    "speech": "to help her",
+    "index": 203,
+    "start": 964,
+    "end": 967
+  },
+  {
+    "speech": "robber: open it",
+    "index": 204,
+    "start": 967,
+    "end": 969
+  },
+  {
+    "speech": "robber: open it now",
+    "index": 205,
+    "start": 968,
+    "end": 970
+  },
+  {
+    "speech": "everybody down",
+    "index": 206,
+    "start": 970,
+    "end": 972
+  },
+  {
+    "speech": "robber: do it! do it",
+    "index": 207,
+    "start": 973,
+    "end": 976
+  },
+  {
+    "speech": "man 1 : shit! just give him the money",
+    "index": 208,
+    "start": 975,
+    "end": 978
+  },
+  {
+    "speech": "man 2: did i leave the lights on? i left the lights on",
+    "index": 209,
+    "start": 977,
+    "end": 980
+  },
+  {
+    "speech": "woman: i should have gone to ralphs",
+    "index": 210,
+    "start": 980,
+    "end": 982
+  },
+  {
+    "speech": " do it! - relax. i'm doing it, okay",
+    "index": 211,
+    "start": 982,
+    "end": 985
+  },
+  {
+    "speech": "store clerk: i never saw the grand canyon",
+    "index": 212,
+    "start": 986,
+    "end": 988
+  },
+  {
+    "speech": "store clerk: i'll never see my grandkids again",
+    "index": 213,
+    "start": 988,
+    "end": 990
+  },
+  {
+    "speech": "robber: what am i doing",
+    "index": 214,
+    "start": 991,
+    "end": 993
+  },
+  {
+    "speech": "robber: just be cool. be cool",
+    "index": 215,
+    "start": 993,
+    "end": 996
+  },
+  {
+    "speech": "be cool, man",
+    "index": 216,
+    "start": 1000,
+    "end": 1001
+  },
+  {
+    "speech": "store clerk: be cool",
+    "index": 217,
+    "start": 1001,
+    "end": 1003
+  },
+  {
+    "speech": "holy shit",
+    "index": 218,
+    "start": 1007,
+    "end": 1009
+  },
+  {
+    "speech": "they don't need to see us",
+    "index": 219,
+    "start": 1011,
+    "end": 1013
+  },
+  {
+    "speech": "nurse: you're early",
+    "index": 220,
+    "start": 1031,
+    "end": 1033
+  },
+  {
+    "speech": "[ vomits ]",
+    "index": 221,
+    "start": 1045,
+    "end": 1047
+  },
+  {
+    "speech": "maggie: what's going on",
+    "index": 222,
+    "start": 1064,
+    "end": 1066
+  },
+  {
+    "speech": "ferris was looking for you",
+    "index": 223,
+    "start": 1065,
+    "end": 1068
+  },
+  {
+    "speech": "maggie",
+    "index": 224,
+    "start": 1068,
+    "end": 1070
+  },
+  {
+    "speech": "don't i have a mitral valve to do",
+    "index": 225,
+    "start": 1079,
+    "end": 1081
+  },
+  {
+    "speech": "they canceled it",
+    "index": 226,
+    "start": 1081,
+    "end": 1083
+  },
+  {
+    "speech": "who canceled it",
+    "index": 227,
+    "start": 1083,
+    "end": 1085
+  },
+  {
+    "speech": "sheffield",
+    "index": 228,
+    "start": 1084,
+    "end": 1086
+  },
+  {
+    "speech": "why are you telling me",
+    "index": 229,
+    "start": 1085,
+    "end": 1087
+  },
+  {
+    "speech": "he was busy",
+    "index": 230,
+    "start": 1087,
+    "end": 1088
+  },
+  {
+    "speech": "he was chickenshit",
+    "index": 231,
+    "start": 1088,
+    "end": 1090
+  },
+  {
+    "speech": "jordan: maggie, you're sick. maggie: i'm not sick",
+    "index": 232,
+    "start": 1089,
+    "end": 1092
+  },
+  {
+    "speech": "you're sick. you can't operate",
+    "index": 233,
+    "start": 1091,
+    "end": 1094
+  },
+  {
+    "speech": "jordan: they've rescheduled for monday",
+    "index": 234,
+    "start": 1093,
+    "end": 1095
+  },
+  {
+    "speech": "an elective valve, no big deal",
+    "index": 235,
+    "start": 1095,
+    "end": 1097
+  },
+  {
+    "speech": "it is unprofessional, and it embarrasses me in front of my staff",
+    "index": 236,
+    "start": 1096,
+    "end": 1100
+  },
+  {
+    "speech": "i saw the chart on balford",
+    "index": 237,
+    "start": 1103,
+    "end": 1106
+  },
+  {
+    "speech": "i'm on the committee. it's on review",
+    "index": 238,
+    "start": 1107,
+    "end": 1109
+  },
+  {
+    "speech": " it wasn't your fault. - i know",
+    "index": 239,
+    "start": 1109,
+    "end": 1112
+  },
+  {
+    "speech": "then what's the problem",
+    "index": 240,
+    "start": 1111,
+    "end": 1113
+  },
+  {
+    "speech": "i don't know",
+    "index": 241,
+    "start": 1117,
+    "end": 1119
+  },
+  {
+    "speech": "you put up a terrific fight",
+    "index": 242,
+    "start": 1119,
+    "end": 1122
+  },
+  {
+    "speech": "we fight for people's lives, right",
+    "index": 243,
+    "start": 1124,
+    "end": 1127
+  },
+  {
+    "speech": "don't you ever wonder who it is we're fighting with",
+    "index": 244,
+    "start": 1128,
+    "end": 1132
+  },
+  {
+    "speech": "so i'm crazy and chemically imbalanced",
+    "index": 245,
+    "start": 1135,
+    "end": 1138
+  },
+  {
+    "speech": "you're tired",
+    "index": 246,
+    "start": 1137,
+    "end": 1139
+  },
+  {
+    "speech": "you have moments",
+    "index": 247,
+    "start": 1140,
+    "end": 1142
+  },
+  {
+    "speech": "why didn't you call me",
+    "index": 248,
+    "start": 1143,
+    "end": 1145
+  },
+  {
+    "speech": "because i never sleep when you stay over",
+    "index": 249,
+    "start": 1147,
+    "end": 1150
+  },
+  {
+    "speech": "you never sleep whether i stay over or not",
+    "index": 250,
+    "start": 1149,
+    "end": 1152
+  },
+  {
+    "speech": "you're good",
+    "index": 251,
+    "start": 1153,
+    "end": 1155
+  },
+  {
+    "speech": "you know it",
+    "index": 252,
+    "start": 1154,
+    "end": 1156
+  },
+  {
+    "speech": "come back monday and get back on the horse",
+    "index": 253,
+    "start": 1156,
+    "end": 1159
+  },
+  {
+    "speech": "nurse: doctor",
+    "index": 254,
+    "start": 1160,
+    "end": 1161
+  },
+  {
+    "speech": "i'll see you",
+    "index": 255,
+    "start": 1167,
+    "end": 1169
+  },
+  {
+    "speech": "person 1 : \"as i walk along the stony shore",
+    "index": 256,
+    "start": 1191,
+    "end": 1194
+  },
+  {
+    "speech": "of the pond in my shirtsleeves",
+    "index": 257,
+    "start": 1193,
+    "end": 1196
+  },
+  {
+    "speech": "person 2: \"...amazon basin in the north, once an island sea",
+    "index": 258,
+    "start": 1195,
+    "end": 1199
+  },
+  {
+    "speech": "person 3: \"the highest truth on the subject remains unsaid",
+    "index": 259,
+    "start": 1198,
+    "end": 1201
+  },
+  {
+    "speech": "probably cannot be said",
+    "index": 260,
+    "start": 1201,
+    "end": 1203
+  },
+  {
+    "speech": "person 3: for all that we say",
+    "index": 261,
+    "start": 1203,
+    "end": 1205
+  },
+  {
+    "speech": "is the far-off remembering of the intuition",
+    "index": 262,
+    "start": 1204,
+    "end": 1208
+  },
+  {
+    "speech": "person 4: \"...she begins to pull away from the awareness she had",
+    "index": 263,
+    "start": 1207,
+    "end": 1211
+  },
+  {
+    "speech": "person 5: \"commencing search.\" searching my soul",
+    "index": 264,
+    "start": 1216,
+    "end": 1218
+  },
+  {
+    "speech": "person 6: what happened to the cards? you could touch the cards",
+    "index": 265,
+    "start": 1217,
+    "end": 1221
+  },
+  {
+    "speech": "person 7: she's been looking at me for half an hour",
+    "index": 266,
+    "start": 1220,
+    "end": 1223
+  },
+  {
+    "speech": "person 7: maybe if ljust hang here",
+    "index": 267,
+    "start": 1223,
+    "end": 1225
+  },
+  {
+    "speech": "person 8: \"this is a delicious evening",
+    "index": 268,
+    "start": 1224,
+    "end": 1227
+  },
+  {
+    "speech": "when the whole body's one sense",
+    "index": 269,
+    "start": 1226,
+    "end": 1229
+  },
+  {
+    "speech": "person 9: what if i screamed? what if ljust screamed right now",
+    "index": 270,
+    "start": 1229,
+    "end": 1233
+  },
+  {
+    "speech": "person 10: \"when a woman decides to sleep with a man",
+    "index": 271,
+    "start": 1234,
+    "end": 1237
+  },
+  {
+    "speech": "old man: \"you knew there would always be a spring",
+    "index": 272,
+    "start": 1238,
+    "end": 1241
+  },
+  {
+    "speech": "as you knew the river would flo w again after it was frozen",
+    "index": 273,
+    "start": 1241,
+    "end": 1246
+  },
+  {
+    "speech": "old man: when the cold rains kept on and killed the spring",
+    "index": 274,
+    "start": 1245,
+    "end": 1250
+  },
+  {
+    "speech": "it was as though a young person had died for no reason",
+    "index": 275,
+    "start": 1249,
+    "end": 1255
+  },
+  {
+    "speech": "all right, they have rescheduled the operation for monday",
+    "index": 276,
+    "start": 1288,
+    "end": 1292
+  },
+  {
+    "speech": "what happened yesterday",
+    "index": 277,
+    "start": 1291,
+    "end": 1293
+  },
+  {
+    "speech": "teresa: they had a golf tournament",
+    "index": 278,
+    "start": 1293,
+    "end": 1295
+  },
+  {
+    "speech": "who knows with these people",
+    "index": 279,
+    "start": 1294,
+    "end": 1297
+  },
+  {
+    "speech": "good morning, mr. messinger",
+    "index": 280,
+    "start": 1296,
+    "end": 1298
+  },
+  {
+    "speech": "the \"g\" is soft, like \"messenger",
+    "index": 281,
+    "start": 1298,
+    "end": 1301
+  },
+  {
+    "speech": "what's on your lip",
+    "index": 282,
+    "start": 1302,
+    "end": 1304
+  },
+  {
+    "speech": "what? am i slobbering here",
+    "index": 283,
+    "start": 1304,
+    "end": 1307
+  },
+  {
+    "speech": " where did you get that? - what am l, a prisoner",
+    "index": 284,
+    "start": 1311,
+    "end": 1315
+  },
+  {
+    "speech": "you want to get well, or you want ben & jerry's",
+    "index": 285,
+    "start": 1314,
+    "end": 1317
+  },
+  {
+    "speech": "maggie: this operation is a big deal",
+    "index": 286,
+    "start": 1317,
+    "end": 1319
+  },
+  {
+    "speech": "maggie: continue to eat like this",
+    "index": 287,
+    "start": 1319,
+    "end": 1321
+  },
+  {
+    "speech": "and you might as well skip it. save the 30 grand",
+    "index": 288,
+    "start": 1321,
+    "end": 1324
+  },
+  {
+    "speech": "if you'd have performed the operation yesterday like you were supposed to",
+    "index": 289,
+    "start": 1324,
+    "end": 1329
+  },
+  {
+    "speech": "i'd be sucking carrots through a straw in my arm. what happened",
+    "index": 290,
+    "start": 1328,
+    "end": 1332
+  },
+  {
+    "speech": "circumstances were not optimal for the procedure",
+    "index": 291,
+    "start": 1332,
+    "end": 1335
+  },
+  {
+    "speech": "i ain't \"the procedure.\" my name is nathan messinger and i'm right here",
+    "index": 292,
+    "start": 1335,
+    "end": 1340
+  },
+  {
+    "speech": "girl: hello, hello, hello",
+    "index": 293,
+    "start": 1420,
+    "end": 1423
+  },
+  {
+    "speech": "boy: floating, floating. don't pop it. don't pop it",
+    "index": 294,
+    "start": 1425,
+    "end": 1429
+  },
+  {
+    "speech": "[ mom and girl singing ] do you know the muffin man",
+    "index": 295,
+    "start": 1430,
+    "end": 1434
+  },
+  {
+    "speech": "[ cartoons over tv ]",
+    "index": 296,
+    "start": 1434,
+    "end": 1436
+  },
+  {
+    "speech": "hi, anne",
+    "index": 297,
+    "start": 1477,
+    "end": 1479
+  },
+  {
+    "speech": "what are you doing here",
+    "index": 298,
+    "start": 1478,
+    "end": 1480
+  },
+  {
+    "speech": "i was on my way up to x-ray",
+    "index": 299,
+    "start": 1480,
+    "end": 1482
+  },
+  {
+    "speech": "and i thought i'd stop in and just",
+    "index": 300,
+    "start": 1482,
+    "end": 1485
+  },
+  {
+    "speech": "hide",
+    "index": 301,
+    "start": 1485,
+    "end": 1487
+  },
+  {
+    "speech": "from what",
+    "index": 302,
+    "start": 1487,
+    "end": 1489
+  },
+  {
+    "speech": "i should've gone into pediatrics",
+    "index": 303,
+    "start": 1490,
+    "end": 1492
+  },
+  {
+    "speech": "oh, no",
+    "index": 304,
+    "start": 1492,
+    "end": 1494
+  },
+  {
+    "speech": "every guy you meet is either married or a gyno",
+    "index": 305,
+    "start": 1493,
+    "end": 1497
+  },
+  {
+    "speech": "never date a man who knows more about your vagina than you do",
+    "index": 306,
+    "start": 1496,
+    "end": 1500
+  },
+  {
+    "speech": "[ baby cries ]",
+    "index": 307,
+    "start": 1499,
+    "end": 1501
+  },
+  {
+    "speech": "anne: poor little guy",
+    "index": 308,
+    "start": 1502,
+    "end": 1504
+  },
+  {
+    "speech": "anne: he never stops crying",
+    "index": 309,
+    "start": 1508,
+    "end": 1510
+  },
+  {
+    "speech": " what's wrong with him? anne: no insurance",
+    "index": 310,
+    "start": 1510,
+    "end": 1513
+  },
+  {
+    "speech": "found him in a dumpster behind the house of pies",
+    "index": 311,
+    "start": 1513,
+    "end": 1517
+  },
+  {
+    "speech": "we worked him up the wazoo for everything",
+    "index": 312,
+    "start": 1517,
+    "end": 1519
+  },
+  {
+    "speech": "from drug exposure to diabetes. we got nothing",
+    "index": 313,
+    "start": 1518,
+    "end": 1522
+  },
+  {
+    "speech": "may l",
+    "index": 314,
+    "start": 1522,
+    "end": 1525
+  },
+  {
+    "speech": "did you do an ultrasound",
+    "index": 315,
+    "start": 1536,
+    "end": 1538
+  },
+  {
+    "speech": " you hear a murmur? - worth a shot",
+    "index": 316,
+    "start": 1538,
+    "end": 1540
+  },
+  {
+    "speech": "okay, baby",
+    "index": 317,
+    "start": 1540,
+    "end": 1543
+  },
+  {
+    "speech": "so what are you hiding from",
+    "index": 318,
+    "start": 1545,
+    "end": 1549
+  },
+  {
+    "speech": "my patient's wife",
+    "index": 319,
+    "start": 1550,
+    "end": 1553
+  },
+  {
+    "speech": "she wants me to tell her that her husband is going to be okay",
+    "index": 320,
+    "start": 1553,
+    "end": 1556
+  },
+  {
+    "speech": "and that i have every confidence",
+    "index": 321,
+    "start": 1556,
+    "end": 1559
+  },
+  {
+    "speech": "and i don't",
+    "index": 322,
+    "start": 1559,
+    "end": 1561
+  },
+  {
+    "speech": "and after all this time, and after all this work",
+    "index": 323,
+    "start": 1561,
+    "end": 1564
+  },
+  {
+    "speech": "i suddenly have this feeling that",
+    "index": 324,
+    "start": 1564,
+    "end": 1567
+  },
+  {
+    "speech": "none of this is in my hands. nothing",
+    "index": 325,
+    "start": 1567,
+    "end": 1571
+  },
+  {
+    "speech": "and if it isn't",
+    "index": 326,
+    "start": 1571,
+    "end": 1573
+  },
+  {
+    "speech": "what do i do with that",
+    "index": 327,
+    "start": 1573,
+    "end": 1575
+  },
+  {
+    "speech": "excuse me",
+    "index": 328,
+    "start": 1631,
+    "end": 1633
+  },
+  {
+    "speech": "are you a visitor",
+    "index": 329,
+    "start": 1640,
+    "end": 1642
+  },
+  {
+    "speech": "yes",
+    "index": 330,
+    "start": 1643,
+    "end": 1645
+  },
+  {
+    "speech": "visiting hours have been over since 8:00",
+    "index": 331,
+    "start": 1645,
+    "end": 1649
+  },
+  {
+    "speech": "why do they have that",
+    "index": 332,
+    "start": 1648,
+    "end": 1651
+  },
+  {
+    "speech": "what",
+    "index": 333,
+    "start": 1651,
+    "end": 1652
+  },
+  {
+    "speech": "hours",
+    "index": 334,
+    "start": 1652,
+    "end": 1654
+  },
+  {
+    "speech": "doesn't it help the patient to be visited",
+    "index": 335,
+    "start": 1654,
+    "end": 1657
+  },
+  {
+    "speech": "who are you visiting? mr. messinger",
+    "index": 336,
+    "start": 1659,
+    "end": 1661
+  },
+  {
+    "speech": "seth: right now",
+    "index": 337,
+    "start": 1661,
+    "end": 1663
+  },
+  {
+    "speech": "you",
+    "index": 338,
+    "start": 1666,
+    "end": 1668
+  },
+  {
+    "speech": "i don't need a visitor",
+    "index": 339,
+    "start": 1671,
+    "end": 1673
+  },
+  {
+    "speech": "seth: you're not ill",
+    "index": 340,
+    "start": 1672,
+    "end": 1674
+  },
+  {
+    "speech": "no",
+    "index": 341,
+    "start": 1674,
+    "end": 1676
+  },
+  {
+    "speech": "i'm one of the doctors here",
+    "index": 342,
+    "start": 1677,
+    "end": 1680
+  },
+  {
+    "speech": "are you in despair",
+    "index": 343,
+    "start": 1681,
+    "end": 1684
+  },
+  {
+    "speech": "i lost a patient",
+    "index": 344,
+    "start": 1687,
+    "end": 1690
+  },
+  {
+    "speech": "you did everything you could",
+    "index": 345,
+    "start": 1690,
+    "end": 1692
+  },
+  {
+    "speech": "i was holding his heart in my hand when he died",
+    "index": 346,
+    "start": 1693,
+    "end": 1696
+  },
+  {
+    "speech": "then he wasn't alone",
+    "index": 347,
+    "start": 1697,
+    "end": 1699
+  },
+  {
+    "speech": "yes, he was",
+    "index": 348,
+    "start": 1699,
+    "end": 1701
+  },
+  {
+    "speech": "people die",
+    "index": 349,
+    "start": 1700,
+    "end": 1702
+  },
+  {
+    "speech": "not on my table",
+    "index": 350,
+    "start": 1701,
+    "end": 1703
+  },
+  {
+    "speech": "people die when their bodies give out",
+    "index": 351,
+    "start": 1703,
+    "end": 1706
+  },
+  {
+    "speech": "it's my job to keep their bodies from giving out. or what am i doing here",
+    "index": 352,
+    "start": 1705,
+    "end": 1710
+  },
+  {
+    "speech": "it wasn't your fault, maggie",
+    "index": 353,
+    "start": 1709,
+    "end": 1712
+  },
+  {
+    "speech": "i wanted him to live",
+    "index": 354,
+    "start": 1711,
+    "end": 1713
+  },
+  {
+    "speech": "he is living",
+    "index": 355,
+    "start": 1713,
+    "end": 1715
+  },
+  {
+    "speech": "just not the way you think",
+    "index": 356,
+    "start": 1715,
+    "end": 1717
+  },
+  {
+    "speech": "i don't believe in that",
+    "index": 357,
+    "start": 1724,
+    "end": 1727
+  },
+  {
+    "speech": "some things are true whether you believe in them or not",
+    "index": 358,
+    "start": 1726,
+    "end": 1730
+  },
+  {
+    "speech": "how did you know my name",
+    "index": 359,
+    "start": 1731,
+    "end": 1733
+  },
+  {
+    "speech": "what's yours",
+    "index": 360,
+    "start": 1736,
+    "end": 1738
+  },
+  {
+    "speech": "seth",
+    "index": 361,
+    "start": 1739,
+    "end": 1742
+  },
+  {
+    "speech": "seth",
+    "index": 362,
+    "start": 1742,
+    "end": 1744
+  },
+  {
+    "speech": "you better get out of here, seth",
+    "index": 363,
+    "start": 1749,
+    "end": 1751
+  },
+  {
+    "speech": "or security's going to think you're a psych patient",
+    "index": 364,
+    "start": 1751,
+    "end": 1754
+  },
+  {
+    "speech": "maggie: where are we? doctor: down a liter",
+    "index": 365,
+    "start": 1823,
+    "end": 1826
+  },
+  {
+    "speech": "maggie: suction",
+    "index": 366,
+    "start": 1826,
+    "end": 1828
+  },
+  {
+    "speech": "[ maggie sings to herself ] i am stuck on band-aid brand",
+    "index": 367,
+    "start": 1828,
+    "end": 1831
+  },
+  {
+    "speech": "[ maggie sings to herself ] 'cause band-aid's stuck on me",
+    "index": 368,
+    "start": 1831,
+    "end": 1834
+  },
+  {
+    "speech": "[ maggie talks to herself ] no dying now, mr. messinger",
+    "index": 369,
+    "start": 1839,
+    "end": 1841
+  },
+  {
+    "speech": "not until you give me seth's phone number",
+    "index": 370,
+    "start": 1841,
+    "end": 1844
+  },
+  {
+    "speech": "[ maggie sings to herself ] i am stuck on band-aid brand",
+    "index": 371,
+    "start": 1844,
+    "end": 1847
+  },
+  {
+    "speech": "[ maggie sings to herself ] 'cause band-aid's stuck on me",
+    "index": 372,
+    "start": 1847,
+    "end": 1850
+  },
+  {
+    "speech": "[ music ]",
+    "index": 373,
+    "start": 1850,
+    "end": 1852
+  },
+  {
+    "speech": "maggie: those eyes",
+    "index": 374,
+    "start": 1876,
+    "end": 1878
+  },
+  {
+    "speech": "maggie: the way he looked",
+    "index": 375,
+    "start": 1878,
+    "end": 1881
+  },
+  {
+    "speech": "right down into me",
+    "index": 376,
+    "start": 1880,
+    "end": 1883
+  },
+  {
+    "speech": "seth",
+    "index": 377,
+    "start": 1884,
+    "end": 1886
+  },
+  {
+    "speech": "what kind of name is seth",
+    "index": 378,
+    "start": 1887,
+    "end": 1890
+  },
+  {
+    "speech": "hey",
+    "index": 379,
+    "start": 2003,
+    "end": 2005
+  },
+  {
+    "speech": "i thought you'd be here",
+    "index": 380,
+    "start": 2006,
+    "end": 2008
+  },
+  {
+    "speech": "salty",
+    "index": 381,
+    "start": 2009,
+    "end": 2011
+  },
+  {
+    "speech": "my transplant tanked at 2 a.m",
+    "index": 382,
+    "start": 2010,
+    "end": 2013
+  },
+  {
+    "speech": "you okay",
+    "index": 383,
+    "start": 2014,
+    "end": 2016
+  },
+  {
+    "speech": "yes",
+    "index": 384,
+    "start": 2015,
+    "end": 2017
+  },
+  {
+    "speech": "you might want to return this",
+    "index": 385,
+    "start": 2022,
+    "end": 2025
+  },
+  {
+    "speech": "that part about the spring? \"you knew there'd always be a spring",
+    "index": 386,
+    "start": 2028,
+    "end": 2032
+  },
+  {
+    "speech": "how did you know that",
+    "index": 387,
+    "start": 2032,
+    "end": 2035
+  },
+  {
+    "speech": "what? i didn't give you this book",
+    "index": 388,
+    "start": 2034,
+    "end": 2037
+  },
+  {
+    "speech": "you didn't",
+    "index": 389,
+    "start": 2040,
+    "end": 2042
+  },
+  {
+    "speech": "where'd you get it",
+    "index": 390,
+    "start": 2041,
+    "end": 2044
+  },
+  {
+    "speech": "hi. i'm a physician, and i think a patient left that in my office",
+    "index": 391,
+    "start": 2054,
+    "end": 2058
+  },
+  {
+    "speech": " can you tell me who checked it out? clerk: i can't tell you who",
+    "index": 392,
+    "start": 2057,
+    "end": 2061
+  },
+  {
+    "speech": "i can tell you when",
+    "index": 393,
+    "start": 2061,
+    "end": 2063
+  },
+  {
+    "speech": " okay. - all right, give me 5 minutes",
+    "index": 394,
+    "start": 2063,
+    "end": 2066
+  },
+  {
+    "speech": "seth: hello, maggie",
+    "index": 395,
+    "start": 2096,
+    "end": 2098
+  },
+  {
+    "speech": "it's nice to see you again",
+    "index": 396,
+    "start": 2100,
+    "end": 2102
+  },
+  {
+    "speech": "it's weird to see you again",
+    "index": 397,
+    "start": 2102,
+    "end": 2104
+  },
+  {
+    "speech": "weird is nice",
+    "index": 398,
+    "start": 2104,
+    "end": 2106
+  },
+  {
+    "speech": "you like hemingway",
+    "index": 399,
+    "start": 2109,
+    "end": 2111
+  },
+  {
+    "speech": "yeah, i'm starting to",
+    "index": 400,
+    "start": 2112,
+    "end": 2114
+  },
+  {
+    "speech": "may l",
+    "index": 401,
+    "start": 2119,
+    "end": 2121
+  },
+  {
+    "speech": "as i ate the oysters with their strong taste of the sea",
+    "index": 402,
+    "start": 2123,
+    "end": 2127
+  },
+  {
+    "speech": "and their faint metallic taste",
+    "index": 403,
+    "start": 2126,
+    "end": 2129
+  },
+  {
+    "speech": "as i drank their cold liquid from each shell",
+    "index": 404,
+    "start": 2129,
+    "end": 2132
+  },
+  {
+    "speech": "and washed it down with the crisp taste of the wine",
+    "index": 405,
+    "start": 2131,
+    "end": 2135
+  },
+  {
+    "speech": "i lost the empty feeling",
+    "index": 406,
+    "start": 2134,
+    "end": 2137
+  },
+  {
+    "speech": "and began to be happy",
+    "index": 407,
+    "start": 2136,
+    "end": 2139
+  },
+  {
+    "speech": "he never forgets to describe how things taste",
+    "index": 408,
+    "start": 2139,
+    "end": 2142
+  },
+  {
+    "speech": "seth: i like that",
+    "index": 409,
+    "start": 2143,
+    "end": 2145
+  },
+  {
+    "speech": "do you come here a lot",
+    "index": 410,
+    "start": 2147,
+    "end": 2149
+  },
+  {
+    "speech": "i live here",
+    "index": 411,
+    "start": 2149,
+    "end": 2151
+  },
+  {
+    "speech": "what do you do",
+    "index": 412,
+    "start": 2152,
+    "end": 2154
+  },
+  {
+    "speech": "read",
+    "index": 413,
+    "start": 2154,
+    "end": 2155
+  },
+  {
+    "speech": "maggie: no, i mean, your work",
+    "index": 414,
+    "start": 2155,
+    "end": 2158
+  },
+  {
+    "speech": "i'm a messenger",
+    "index": 415,
+    "start": 2158,
+    "end": 2160
+  },
+  {
+    "speech": "what kind of messenger? a bike messenger",
+    "index": 416,
+    "start": 2162,
+    "end": 2165
+  },
+  {
+    "speech": "no, i'm a messenger of god",
+    "index": 417,
+    "start": 2164,
+    "end": 2167
+  },
+  {
+    "speech": "got a message for me",
+    "index": 418,
+    "start": 2168,
+    "end": 2171
+  },
+  {
+    "speech": "i already gave it to you",
+    "index": 419,
+    "start": 2171,
+    "end": 2173
+  },
+  {
+    "speech": "did you use my pager? i usually don't get my messages unless you beep me",
+    "index": 420,
+    "start": 2172,
+    "end": 2177
+  },
+  {
+    "speech": "you've definitely been beeped",
+    "index": 421,
+    "start": 2177,
+    "end": 2181
+  },
+  {
+    "speech": "seth: how is messinger? maggie: he's good",
+    "index": 422,
+    "start": 2183,
+    "end": 2186
+  },
+  {
+    "speech": "the operation went really well",
+    "index": 423,
+    "start": 2185,
+    "end": 2188
+  },
+  {
+    "speech": " it was a good day. maggie: it was",
+    "index": 424,
+    "start": 2187,
+    "end": 2190
+  },
+  {
+    "speech": "yeah, i didn't kill anybody today",
+    "index": 425,
+    "start": 2189,
+    "end": 2193
+  },
+  {
+    "speech": " you're an excellent doctor. - how do you know",
+    "index": 426,
+    "start": 2192,
+    "end": 2196
+  },
+  {
+    "speech": "i have a feeling",
+    "index": 427,
+    "start": 2196,
+    "end": 2198
+  },
+  {
+    "speech": "that's pretty flimsy evidence",
+    "index": 428,
+    "start": 2197,
+    "end": 2200
+  },
+  {
+    "speech": "close your eyes",
+    "index": 429,
+    "start": 2200,
+    "end": 2202
+  },
+  {
+    "speech": "it's just for a moment",
+    "index": 430,
+    "start": 2204,
+    "end": 2206
+  },
+  {
+    "speech": "seth: what am i doing",
+    "index": 431,
+    "start": 2225,
+    "end": 2227
+  },
+  {
+    "speech": "you're touching me",
+    "index": 432,
+    "start": 2228,
+    "end": 2232
+  },
+  {
+    "speech": "touch",
+    "index": 433,
+    "start": 2232,
+    "end": 2234
+  },
+  {
+    "speech": "how do you know",
+    "index": 434,
+    "start": 2234,
+    "end": 2237
+  },
+  {
+    "speech": "because i feel it",
+    "index": 435,
+    "start": 2237,
+    "end": 2240
+  },
+  {
+    "speech": "you should trust that",
+    "index": 436,
+    "start": 2247,
+    "end": 2250
+  },
+  {
+    "speech": "you don't trust it enough",
+    "index": 437,
+    "start": 2249,
+    "end": 2252
+  },
+  {
+    "speech": "seth: let's go somewhere. maggie: where",
+    "index": 438,
+    "start": 2263,
+    "end": 2266
+  },
+  {
+    "speech": "i don't care",
+    "index": 439,
+    "start": 2266,
+    "end": 2268
+  },
+  {
+    "speech": "what do you want to do",
+    "index": 440,
+    "start": 2268,
+    "end": 2270
+  },
+  {
+    "speech": "anything",
+    "index": 441,
+    "start": 2270,
+    "end": 2272
+  },
+  {
+    "speech": "what's that like",
+    "index": 442,
+    "start": 2315,
+    "end": 2318
+  },
+  {
+    "speech": "what's it taste like",
+    "index": 443,
+    "start": 2319,
+    "end": 2322
+  },
+  {
+    "speech": "describe it. like hemingway",
+    "index": 444,
+    "start": 2321,
+    "end": 2324
+  },
+  {
+    "speech": "well, it tastes like",
+    "index": 445,
+    "start": 2325,
+    "end": 2328
+  },
+  {
+    "speech": "a pear",
+    "index": 446,
+    "start": 2328,
+    "end": 2330
+  },
+  {
+    "speech": "maggie: you don't know what a pear tastes like",
+    "index": 447,
+    "start": 2330,
+    "end": 2333
+  },
+  {
+    "speech": "i don't know what a pear tastes like to you",
+    "index": 448,
+    "start": 2333,
+    "end": 2336
+  },
+  {
+    "speech": "sweet",
+    "index": 449,
+    "start": 2341,
+    "end": 2344
+  },
+  {
+    "speech": "juicy",
+    "index": 450,
+    "start": 2343,
+    "end": 2345
+  },
+  {
+    "speech": "soft on your tongue. grainy",
+    "index": 451,
+    "start": 2346,
+    "end": 2349
+  },
+  {
+    "speech": "iike sugary sand that dissolves in your mouth",
+    "index": 452,
+    "start": 2349,
+    "end": 2353
+  },
+  {
+    "speech": "how's that",
+    "index": 453,
+    "start": 2355,
+    "end": 2357
+  },
+  {
+    "speech": "it's perfect",
+    "index": 454,
+    "start": 2360,
+    "end": 2362
+  },
+  {
+    "speech": "maggie: the first time i looked in a microscope",
+    "index": 455,
+    "start": 2378,
+    "end": 2381
+  },
+  {
+    "speech": "i knew i wanted to be a doctor",
+    "index": 456,
+    "start": 2380,
+    "end": 2382
+  },
+  {
+    "speech": "maggie: okay, let me have your hand",
+    "index": 457,
+    "start": 2385,
+    "end": 2388
+  },
+  {
+    "speech": "what for",
+    "index": 458,
+    "start": 2388,
+    "end": 2390
+  },
+  {
+    "speech": "we'll take a look at your blood",
+    "index": 459,
+    "start": 2389,
+    "end": 2392
+  },
+  {
+    "speech": "not a possibility",
+    "index": 460,
+    "start": 2392,
+    "end": 2394
+  },
+  {
+    "speech": "maggie: men",
+    "index": 461,
+    "start": 2397,
+    "end": 2399
+  },
+  {
+    "speech": "i suppose you know a woman's threshold of pain",
+    "index": 462,
+    "start": 2398,
+    "end": 2401
+  },
+  {
+    "speech": "is 9 times higher than a man's",
+    "index": 463,
+    "start": 2401,
+    "end": 2403
+  },
+  {
+    "speech": "take a look at that",
+    "index": 464,
+    "start": 2413,
+    "end": 2415
+  },
+  {
+    "speech": "that's bright",
+    "index": 465,
+    "start": 2418,
+    "end": 2421
+  },
+  {
+    "speech": "maggie: that's me",
+    "index": 466,
+    "start": 2425,
+    "end": 2427
+  },
+  {
+    "speech": "maggie: all those cells",
+    "index": 467,
+    "start": 2427,
+    "end": 2429
+  },
+  {
+    "speech": "seth: that's all you are",
+    "index": 468,
+    "start": 2430,
+    "end": 2432
+  },
+  {
+    "speech": "that and all the space in between",
+    "index": 469,
+    "start": 2434,
+    "end": 2437
+  },
+  {
+    "speech": "if this is all you are",
+    "index": 470,
+    "start": 2437,
+    "end": 2440
+  },
+  {
+    "speech": "these cells",
+    "index": 471,
+    "start": 2439,
+    "end": 2442
+  },
+  {
+    "speech": "then when they die, that's the end",
+    "index": 472,
+    "start": 2442,
+    "end": 2445
+  },
+  {
+    "speech": "i don't know. i think so",
+    "index": 473,
+    "start": 2445,
+    "end": 2448
+  },
+  {
+    "speech": "how do you explain it",
+    "index": 474,
+    "start": 2449,
+    "end": 2452
+  },
+  {
+    "speech": "what",
+    "index": 475,
+    "start": 2451,
+    "end": 2453
+  },
+  {
+    "speech": "the enduring myth of heaven",
+    "index": 476,
+    "start": 2453,
+    "end": 2456
+  },
+  {
+    "speech": "i used to think that i had it all figured out",
+    "index": 477,
+    "start": 2460,
+    "end": 2464
+  },
+  {
+    "speech": "but you didn't",
+    "index": 478,
+    "start": 2463,
+    "end": 2465
+  },
+  {
+    "speech": "no",
+    "index": 479,
+    "start": 2464,
+    "end": 2466
+  },
+  {
+    "speech": "because something happened in my o.r. and i got",
+    "index": 480,
+    "start": 2471,
+    "end": 2475
+  },
+  {
+    "speech": "this jolt. i got this feeling that there's something",
+    "index": 481,
+    "start": 2475,
+    "end": 2479
+  },
+  {
+    "speech": "bigger out there. something bigger than me, bigger than you, and it",
+    "index": 482,
+    "start": 2479,
+    "end": 2483
+  },
+  {
+    "speech": "does that sound crazy",
+    "index": 483,
+    "start": 2484,
+    "end": 2486
+  },
+  {
+    "speech": "no",
+    "index": 484,
+    "start": 2486,
+    "end": 2488
+  },
+  {
+    "speech": "i couldn't fix him. i did everything right",
+    "index": 485,
+    "start": 2488,
+    "end": 2492
+  },
+  {
+    "speech": "and i couldn't fix him",
+    "index": 486,
+    "start": 2491,
+    "end": 2494
+  },
+  {
+    "speech": "that's not supposed to happen",
+    "index": 487,
+    "start": 2494,
+    "end": 2497
+  },
+  {
+    "speech": "and i",
+    "index": 488,
+    "start": 2498,
+    "end": 2501
+  },
+  {
+    "speech": "you cried",
+    "index": 489,
+    "start": 2500,
+    "end": 2503
+  },
+  {
+    "speech": "yeah",
+    "index": 490,
+    "start": 2505,
+    "end": 2507
+  },
+  {
+    "speech": "seth: why do people cry? maggie: what do you mean",
+    "index": 491,
+    "start": 2508,
+    "end": 2512
+  },
+  {
+    "speech": "i mean, what happens physically",
+    "index": 492,
+    "start": 2511,
+    "end": 2515
+  },
+  {
+    "speech": "well",
+    "index": 493,
+    "start": 2515,
+    "end": 2517
+  },
+  {
+    "speech": "tear ducts operate on a normal basis to lubricate and protect the eye",
+    "index": 494,
+    "start": 2517,
+    "end": 2522
+  },
+  {
+    "speech": "when you have an emotion, they overact and create tears",
+    "index": 495,
+    "start": 2521,
+    "end": 2525
+  },
+  {
+    "speech": "why? why do they overact",
+    "index": 496,
+    "start": 2525,
+    "end": 2527
+  },
+  {
+    "speech": "i don't know",
+    "index": 497,
+    "start": 2529,
+    "end": 2531
+  },
+  {
+    "speech": "maybe",
+    "index": 498,
+    "start": 2531,
+    "end": 2533
+  },
+  {
+    "speech": "maybe emotion becomes so intense",
+    "index": 499,
+    "start": 2533,
+    "end": 2536
+  },
+  {
+    "speech": "your body just can't contain it",
+    "index": 500,
+    "start": 2535,
+    "end": 2538
+  },
+  {
+    "speech": "your mind and your feelings become too powerful",
+    "index": 501,
+    "start": 2537,
+    "end": 2542
+  },
+  {
+    "speech": "your body weeps",
+    "index": 502,
+    "start": 2541,
+    "end": 2544
+  },
+  {
+    "speech": "[ beeper ]",
+    "index": 503,
+    "start": 2546,
+    "end": 2548
+  },
+  {
+    "speech": "i have to go",
+    "index": 504,
+    "start": 2549,
+    "end": 2551
+  },
+  {
+    "speech": "i got to go. stay right here",
+    "index": 505,
+    "start": 2550,
+    "end": 2553
+  },
+  {
+    "speech": "don't go anywhere",
+    "index": 506,
+    "start": 2552,
+    "end": 2555
+  },
+  {
+    "speech": "stay right there",
+    "index": 507,
+    "start": 2554,
+    "end": 2557
+  },
+  {
+    "speech": "maggie: get the tube out. nurse: he can't breathe",
+    "index": 508,
+    "start": 2576,
+    "end": 2578
+  },
+  {
+    "speech": "it's because the tube is blocked",
+    "index": 509,
+    "start": 2578,
+    "end": 2580
+  },
+  {
+    "speech": "maggie: how you feeling",
+    "index": 510,
+    "start": 2591,
+    "end": 2593
+  },
+  {
+    "speech": "ready to hit the waves",
+    "index": 511,
+    "start": 2593,
+    "end": 2595
+  },
+  {
+    "speech": "maggie: i'm afraid your bodysurfing days are over",
+    "index": 512,
+    "start": 2595,
+    "end": 2598
+  },
+  {
+    "speech": "you got a mean tattoo going there. what does your wife think of that",
+    "index": 513,
+    "start": 2600,
+    "end": 2604
+  },
+  {
+    "speech": "that is my wife",
+    "index": 514,
+    "start": 2605,
+    "end": 2607
+  },
+  {
+    "speech": "check his vitals every 15",
+    "index": 515,
+    "start": 2615,
+    "end": 2618
+  },
+  {
+    "speech": "i can't see you, but i know you're there",
+    "index": 516,
+    "start": 2634,
+    "end": 2636
+  },
+  {
+    "speech": "messinger: go back and tell them that i'm not going",
+    "index": 517,
+    "start": 2643,
+    "end": 2646
+  },
+  {
+    "speech": "not yet",
+    "index": 518,
+    "start": 2647,
+    "end": 2649
+  },
+  {
+    "speech": "jordan: where have you been",
+    "index": 519,
+    "start": 2676,
+    "end": 2678
+  },
+  {
+    "speech": "maggie: oh, shit. i totally forgot dinner",
+    "index": 520,
+    "start": 2678,
+    "end": 2681
+  },
+  {
+    "speech": "jordan: dinner",
+    "index": 521,
+    "start": 2681,
+    "end": 2683
+  },
+  {
+    "speech": "jordan: with who",
+    "index": 522,
+    "start": 2682,
+    "end": 2684
+  },
+  {
+    "speech": "a guy i met. i bumped into him and we got something to eat",
+    "index": 523,
+    "start": 2687,
+    "end": 2691
+  },
+  {
+    "speech": "did you pack my backpack",
+    "index": 524,
+    "start": 2690,
+    "end": 2693
+  },
+  {
+    "speech": "jordan: what else",
+    "index": 525,
+    "start": 2692,
+    "end": 2695
+  },
+  {
+    "speech": "we talked",
+    "index": 526,
+    "start": 2695,
+    "end": 2697
+  },
+  {
+    "speech": "and then i got beeped and he disappeared",
+    "index": 527,
+    "start": 2696,
+    "end": 2699
+  },
+  {
+    "speech": "why did you pack my backpack",
+    "index": 528,
+    "start": 2699,
+    "end": 2701
+  },
+  {
+    "speech": "jordan: earl, what are you doing",
+    "index": 529,
+    "start": 2700,
+    "end": 2703
+  },
+  {
+    "speech": "jordan: i thought we'd fly up to tahoe, use your uncle's cabin",
+    "index": 530,
+    "start": 2702,
+    "end": 2706
+  },
+  {
+    "speech": "maybe do a little hiking",
+    "index": 531,
+    "start": 2705,
+    "end": 2707
+  },
+  {
+    "speech": "what",
+    "index": 532,
+    "start": 2708,
+    "end": 2710
+  },
+  {
+    "speech": "god. is it",
+    "index": 533,
+    "start": 2712,
+    "end": 2714
+  },
+  {
+    "speech": "maggie, it's just a tick",
+    "index": 534,
+    "start": 2714,
+    "end": 2716
+  },
+  {
+    "speech": " get a match. - we're not going to burn him, jordan",
+    "index": 535,
+    "start": 2715,
+    "end": 2719
+  },
+  {
+    "speech": "it'll have to back out. can't leave the head in",
+    "index": 536,
+    "start": 2718,
+    "end": 2721
+  },
+  {
+    "speech": " we can't just be burning tick heads. jordan: then get some alcohol",
+    "index": 537,
+    "start": 2721,
+    "end": 2725
+  },
+  {
+    "speech": "i don't have any",
+    "index": 538,
+    "start": 2724,
+    "end": 2726
+  },
+  {
+    "speech": "jordan: you don't have any alcohol? maggie: i don't operate here",
+    "index": 539,
+    "start": 2725,
+    "end": 2728
+  },
+  {
+    "speech": "jordan: how about some olive oil",
+    "index": 540,
+    "start": 2727,
+    "end": 2730
+  },
+  {
+    "speech": "which kind? jalapeo or rosemary",
+    "index": 541,
+    "start": 2731,
+    "end": 2734
+  },
+  {
+    "speech": "rosemary",
+    "index": 542,
+    "start": 2734,
+    "end": 2736
+  },
+  {
+    "speech": "jordan: so what did you and your friend-- what did you say his name was",
+    "index": 543,
+    "start": 2736,
+    "end": 2741
+  },
+  {
+    "speech": "seth",
+    "index": 544,
+    "start": 2741,
+    "end": 2743
+  },
+  {
+    "speech": "what did you two talk about",
+    "index": 545,
+    "start": 2743,
+    "end": 2745
+  },
+  {
+    "speech": "dying",
+    "index": 546,
+    "start": 2746,
+    "end": 2748
+  },
+  {
+    "speech": "come on, we deal with life and death every day. why can't we talk about it",
+    "index": 547,
+    "start": 2750,
+    "end": 2754
+  },
+  {
+    "speech": "i hope you won't become a surgeon who prays in the o.r",
+    "index": 548,
+    "start": 2753,
+    "end": 2757
+  },
+  {
+    "speech": "can we talk for a minute",
+    "index": 549,
+    "start": 2765,
+    "end": 2767
+  },
+  {
+    "speech": "we'll talk while camping",
+    "index": 550,
+    "start": 2766,
+    "end": 2768
+  },
+  {
+    "speech": "jordan, i can't go camping now",
+    "index": 551,
+    "start": 2768,
+    "end": 2771
+  },
+  {
+    "speech": "we need some time together",
+    "index": 552,
+    "start": 2770,
+    "end": 2773
+  },
+  {
+    "speech": "all right, let's see if we can just spend 5 minutes",
+    "index": 553,
+    "start": 2773,
+    "end": 2776
+  },
+  {
+    "speech": "let's see if we can just stand still together for 5 minutes",
+    "index": 554,
+    "start": 2776,
+    "end": 2780
+  },
+  {
+    "speech": "doing what",
+    "index": 555,
+    "start": 2780,
+    "end": 2781
+  },
+  {
+    "speech": "just being here",
+    "index": 556,
+    "start": 2781,
+    "end": 2784
+  },
+  {
+    "speech": "i'll get the trail map",
+    "index": 557,
+    "start": 2784,
+    "end": 2787
+  },
+  {
+    "speech": "no, i mean it",
+    "index": 558,
+    "start": 2786,
+    "end": 2788
+  },
+  {
+    "speech": "nothing but us",
+    "index": 559,
+    "start": 2788,
+    "end": 2790
+  },
+  {
+    "speech": "what do i do",
+    "index": 560,
+    "start": 2792,
+    "end": 2794
+  },
+  {
+    "speech": "just look at me",
+    "index": 561,
+    "start": 2795,
+    "end": 2797
+  },
+  {
+    "speech": "you can't do it",
+    "index": 562,
+    "start": 2808,
+    "end": 2810
+  },
+  {
+    "speech": "you can't do it",
+    "index": 563,
+    "start": 2811,
+    "end": 2813
+  },
+  {
+    "speech": " you flinched. you lose! - you cheat",
+    "index": 564,
+    "start": 2813,
+    "end": 2816
+  },
+  {
+    "speech": "that old black magic called",
+    "index": 565,
+    "start": 2829,
+    "end": 2833
+  },
+  {
+    "speech": "love",
+    "index": 566,
+    "start": 2832,
+    "end": 2835
+  },
+  {
+    "speech": "thank you very much",
+    "index": 567,
+    "start": 2835,
+    "end": 2837
+  },
+  {
+    "speech": "welcome back. we've been talking to mothers who are members of the kkk",
+    "index": 568,
+    "start": 2836,
+    "end": 2841
+  },
+  {
+    "speech": "you want to watch anything",
+    "index": 569,
+    "start": 2842,
+    "end": 2845
+  },
+  {
+    "speech": "messinger: me neither",
+    "index": 570,
+    "start": 2847,
+    "end": 2849
+  },
+  {
+    "speech": "seth: how do you know when i'm here",
+    "index": 571,
+    "start": 2857,
+    "end": 2859
+  },
+  {
+    "speech": "i know",
+    "index": 572,
+    "start": 2864,
+    "end": 2866
+  },
+  {
+    "speech": "messinger: jeez, you look good",
+    "index": 573,
+    "start": 2867,
+    "end": 2870
+  },
+  {
+    "speech": "i forgot how good everybody looked",
+    "index": 574,
+    "start": 2870,
+    "end": 2874
+  },
+  {
+    "speech": "30 years of silence",
+    "index": 575,
+    "start": 2876,
+    "end": 2879
+  },
+  {
+    "speech": "you got guts, kid, showing yourself like that. i appreciate that. i do",
+    "index": 576,
+    "start": 2878,
+    "end": 2883
+  },
+  {
+    "speech": "it'll make it easier",
+    "index": 577,
+    "start": 2882,
+    "end": 2884
+  },
+  {
+    "speech": "i got to tell you, i feel fine",
+    "index": 578,
+    "start": 2884,
+    "end": 2888
+  },
+  {
+    "speech": "you might want to check your orders",
+    "index": 579,
+    "start": 2887,
+    "end": 2889
+  },
+  {
+    "speech": "because i sure don't feel like i'm dying",
+    "index": 580,
+    "start": 2889,
+    "end": 2892
+  },
+  {
+    "speech": "you're not dying",
+    "index": 581,
+    "start": 2891,
+    "end": 2893
+  },
+  {
+    "speech": "right. then how come you're hanging around my room all the time",
+    "index": 582,
+    "start": 2892,
+    "end": 2897
+  },
+  {
+    "speech": "i'm the only one with his ass hanging out of his dress",
+    "index": 583,
+    "start": 2896,
+    "end": 2899
+  },
+  {
+    "speech": "unless",
+    "index": 584,
+    "start": 2899,
+    "end": 2902
+  },
+  {
+    "speech": "could it be",
+    "index": 585,
+    "start": 2904,
+    "end": 2907
+  },
+  {
+    "speech": "the doctor",
+    "index": 586,
+    "start": 2907,
+    "end": 2909
+  },
+  {
+    "speech": "sure",
+    "index": 587,
+    "start": 2910,
+    "end": 2912
+  },
+  {
+    "speech": "the doctor",
+    "index": 588,
+    "start": 2911,
+    "end": 2914
+  },
+  {
+    "speech": "she's pretty",
+    "index": 589,
+    "start": 2913,
+    "end": 2916
+  },
+  {
+    "speech": "a little flat-chested",
+    "index": 590,
+    "start": 2915,
+    "end": 2918
+  },
+  {
+    "speech": "but all you need's a handful",
+    "index": 591,
+    "start": 2917,
+    "end": 2920
+  },
+  {
+    "speech": " who are you? - this is good",
+    "index": 592,
+    "start": 2919,
+    "end": 2922
+  },
+  {
+    "speech": "this is what they call",
+    "index": 593,
+    "start": 2922,
+    "end": 2925
+  },
+  {
+    "speech": "serendipitous",
+    "index": 594,
+    "start": 2924,
+    "end": 2927
+  },
+  {
+    "speech": "look that up in the dictionary, you'll see a picture of you and me",
+    "index": 595,
+    "start": 2926,
+    "end": 2930
+  },
+  {
+    "speech": "thank you",
+    "index": 596,
+    "start": 2930,
+    "end": 2932
+  },
+  {
+    "speech": "you ready to deal",
+    "index": 597,
+    "start": 2938,
+    "end": 2940
+  },
+  {
+    "speech": "because i can answer all your questions, friend",
+    "index": 598,
+    "start": 2940,
+    "end": 2943
+  },
+  {
+    "speech": "how's the french toast",
+    "index": 599,
+    "start": 2952,
+    "end": 2954
+  },
+  {
+    "speech": "fabulous",
+    "index": 600,
+    "start": 2954,
+    "end": 2956
+  },
+  {
+    "speech": "set me up",
+    "index": 601,
+    "start": 2955,
+    "end": 2957
+  },
+  {
+    "speech": "guess i should introduce myself",
+    "index": 602,
+    "start": 2964,
+    "end": 2967
+  },
+  {
+    "speech": "come on, give me your hand",
+    "index": 603,
+    "start": 2967,
+    "end": 2969
+  },
+  {
+    "speech": "put it in mine. there you go",
+    "index": 604,
+    "start": 2970,
+    "end": 2973
+  },
+  {
+    "speech": "a little tighter. tighter. there you go",
+    "index": 605,
+    "start": 2972,
+    "end": 2975
+  },
+  {
+    "speech": "no, that's too much",
+    "index": 606,
+    "start": 2975,
+    "end": 2977
+  },
+  {
+    "speech": "there you go. good grip",
+    "index": 607,
+    "start": 2976,
+    "end": 2979
+  },
+  {
+    "speech": "nathaniel messinger",
+    "index": 608,
+    "start": 2979,
+    "end": 2982
+  },
+  {
+    "speech": "glutton, hedonist",
+    "index": 609,
+    "start": 2981,
+    "end": 2984
+  },
+  {
+    "speech": "former celestial body, recent addition to the human race",
+    "index": 610,
+    "start": 2983,
+    "end": 2988
+  },
+  {
+    "speech": "i don't believe you",
+    "index": 611,
+    "start": 2991,
+    "end": 2993
+  },
+  {
+    "speech": "messinger: you want proof",
+    "index": 612,
+    "start": 2993,
+    "end": 2995
+  },
+  {
+    "speech": "messinger: you hang out at a library",
+    "index": 613,
+    "start": 2994,
+    "end": 2997
+  },
+  {
+    "speech": "messinger: you can speak every language",
+    "index": 614,
+    "start": 2996,
+    "end": 2999
+  },
+  {
+    "speech": "you travel with the speed of thought",
+    "index": 615,
+    "start": 2998,
+    "end": 3001
+  },
+  {
+    "speech": "and you're reading my mind right now",
+    "index": 616,
+    "start": 3000,
+    "end": 3003
+  },
+  {
+    "speech": "stop that",
+    "index": 617,
+    "start": 3003,
+    "end": 3005
+  },
+  {
+    "speech": "you're doing it",
+    "index": 618,
+    "start": 3004,
+    "end": 3006
+  },
+  {
+    "speech": "it's impossible",
+    "index": 619,
+    "start": 3007,
+    "end": 3009
+  },
+  {
+    "speech": "some things are true whether you believe them or not",
+    "index": 620,
+    "start": 3008,
+    "end": 3012
+  },
+  {
+    "speech": "how",
+    "index": 621,
+    "start": 3014,
+    "end": 3016
+  },
+  {
+    "speech": "messinger: you choose. seth: choose",
+    "index": 622,
+    "start": 3015,
+    "end": 3018
+  },
+  {
+    "speech": "to fall to earth",
+    "index": 623,
+    "start": 3017,
+    "end": 3019
+  },
+  {
+    "speech": "you take the plunge, the tumble, the dive",
+    "index": 624,
+    "start": 3019,
+    "end": 3023
+  },
+  {
+    "speech": "you jump off a bridge. leap out a window",
+    "index": 625,
+    "start": 3022,
+    "end": 3025
+  },
+  {
+    "speech": "you just make up your mind to do it and you do it",
+    "index": 626,
+    "start": 3024,
+    "end": 3028
+  },
+  {
+    "speech": "messinger: you wake up all smelly, and aching from head to toe",
+    "index": 627,
+    "start": 3030,
+    "end": 3034
+  },
+  {
+    "speech": "and hungrier than you've ever been",
+    "index": 628,
+    "start": 3033,
+    "end": 3036
+  },
+  {
+    "speech": "only you have no idea what hunger is or any of that stuff",
+    "index": 629,
+    "start": 3035,
+    "end": 3039
+  },
+  {
+    "speech": "so it's all real confusing and painful, but very, very good",
+    "index": 630,
+    "start": 3039,
+    "end": 3043
+  },
+  {
+    "speech": "human",
+    "index": 631,
+    "start": 3045,
+    "end": 3047
+  },
+  {
+    "speech": "listen, kid:",
+    "index": 632,
+    "start": 3048,
+    "end": 3050
+  },
+  {
+    "speech": "he gave these bozos the greatest gift in the universe",
+    "index": 633,
+    "start": 3051,
+    "end": 3055
+  },
+  {
+    "speech": "you think he didn't give it to us too",
+    "index": 634,
+    "start": 3054,
+    "end": 3057
+  },
+  {
+    "speech": "which gift",
+    "index": 635,
+    "start": 3056,
+    "end": 3058
+  },
+  {
+    "speech": "free will, brother",
+    "index": 636,
+    "start": 3058,
+    "end": 3060
+  },
+  {
+    "speech": "free will",
+    "index": 637,
+    "start": 3060,
+    "end": 3063
+  },
+  {
+    "speech": "messinger: couldn't get a job",
+    "index": 638,
+    "start": 3088,
+    "end": 3091
+  },
+  {
+    "speech": "messinger: no past, no training",
+    "index": 639,
+    "start": 3090,
+    "end": 3093
+  },
+  {
+    "speech": "messinger: no l.d",
+    "index": 640,
+    "start": 3093,
+    "end": 3095
+  },
+  {
+    "speech": "then one day, i was walking past a building site",
+    "index": 641,
+    "start": 3094,
+    "end": 3099
+  },
+  {
+    "speech": "a skyscraper",
+    "index": 642,
+    "start": 3098,
+    "end": 3101
+  },
+  {
+    "speech": "and i thought, \"l could do that",
+    "index": 643,
+    "start": 3100,
+    "end": 3103
+  },
+  {
+    "speech": "you see, these people down here",
+    "index": 644,
+    "start": 3103,
+    "end": 3105
+  },
+  {
+    "speech": "a lot of them are afraid of heights, you know what i'm saying",
+    "index": 645,
+    "start": 3105,
+    "end": 3109
+  },
+  {
+    "speech": "that makes me uniquely qualified",
+    "index": 646,
+    "start": 3108,
+    "end": 3112
+  },
+  {
+    "speech": "and besides, it feels like a little bit of home up here",
+    "index": 647,
+    "start": 3111,
+    "end": 3116
+  },
+  {
+    "speech": "and i like what i do",
+    "index": 648,
+    "start": 3115,
+    "end": 3117
+  },
+  {
+    "speech": "i'm good at it",
+    "index": 649,
+    "start": 3117,
+    "end": 3119
+  },
+  {
+    "speech": "these things'll kill you",
+    "index": 650,
+    "start": 3120,
+    "end": 3123
+  },
+  {
+    "speech": "are there others",
+    "index": 651,
+    "start": 3124,
+    "end": 3126
+  },
+  {
+    "speech": "others like you",
+    "index": 652,
+    "start": 3126,
+    "end": 3129
+  },
+  {
+    "speech": "yeah, they're out there",
+    "index": 653,
+    "start": 3128,
+    "end": 3130
+  },
+  {
+    "speech": "you see them, but most of the time you just walk on by",
+    "index": 654,
+    "start": 3130,
+    "end": 3135
+  },
+  {
+    "speech": "nobody likes to think of the old life. you know, what they gave up",
+    "index": 655,
+    "start": 3134,
+    "end": 3139
+  },
+  {
+    "speech": "then why'd you do it",
+    "index": 656,
+    "start": 3138,
+    "end": 3141
+  },
+  {
+    "speech": "my daughter, ruth",
+    "index": 657,
+    "start": 3149,
+    "end": 3151
+  },
+  {
+    "speech": "her stupid husband, frank",
+    "index": 658,
+    "start": 3151,
+    "end": 3153
+  },
+  {
+    "speech": "and my grandkids",
+    "index": 659,
+    "start": 3153,
+    "end": 3155
+  },
+  {
+    "speech": "petie's 4, hannah's 6",
+    "index": 660,
+    "start": 3155,
+    "end": 3158
+  },
+  {
+    "speech": "and this is my wife, teresa",
+    "index": 661,
+    "start": 3160,
+    "end": 3164
+  },
+  {
+    "speech": "did you",
+    "index": 662,
+    "start": 3166,
+    "end": 3168
+  },
+  {
+    "speech": "tell her who you were",
+    "index": 663,
+    "start": 3168,
+    "end": 3171
+  },
+  {
+    "speech": "i started to try once or twice",
+    "index": 664,
+    "start": 3171,
+    "end": 3174
+  },
+  {
+    "speech": "then i thought, \"why do that to her",
+    "index": 665,
+    "start": 3174,
+    "end": 3176
+  },
+  {
+    "speech": "do what",
+    "index": 666,
+    "start": 3176,
+    "end": 3178
+  },
+  {
+    "speech": "it's too much for them",
+    "index": 667,
+    "start": 3178,
+    "end": 3180
+  },
+  {
+    "speech": "people don't believe in us anymore",
+    "index": 668,
+    "start": 3180,
+    "end": 3184
+  },
+  {
+    "speech": "do they still gather together at sunrise",
+    "index": 669,
+    "start": 3192,
+    "end": 3195
+  },
+  {
+    "speech": "and sunset, yes",
+    "index": 670,
+    "start": 3195,
+    "end": 3197
+  },
+  {
+    "speech": "take me there",
+    "index": 671,
+    "start": 3198,
+    "end": 3200
+  },
+  {
+    "speech": "[ angelic music ]",
+    "index": 672,
+    "start": 3203,
+    "end": 3206
+  },
+  {
+    "speech": "can you hear it",
+    "index": 673,
+    "start": 3210,
+    "end": 3213
+  },
+  {
+    "speech": "no",
+    "index": 674,
+    "start": 3222,
+    "end": 3224
+  },
+  {
+    "speech": "messinger: i can't hear that",
+    "index": 675,
+    "start": 3241,
+    "end": 3244
+  },
+  {
+    "speech": "messinger: but you can't feel this",
+    "index": 676,
+    "start": 3243,
+    "end": 3246
+  },
+  {
+    "speech": "seth: nathan",
+    "index": 677,
+    "start": 3246,
+    "end": 3248
+  },
+  {
+    "speech": "you have to go back",
+    "index": 678,
+    "start": 3254,
+    "end": 3256
+  },
+  {
+    "speech": "not until i catch the big wave",
+    "index": 679,
+    "start": 3255,
+    "end": 3258
+  },
+  {
+    "speech": "messinger: wait",
+    "index": 680,
+    "start": 3262,
+    "end": 3264
+  },
+  {
+    "speech": "wait",
+    "index": 681,
+    "start": 3263,
+    "end": 3265
+  },
+  {
+    "speech": "wait for what",
+    "index": 682,
+    "start": 3265,
+    "end": 3267
+  },
+  {
+    "speech": "swim",
+    "index": 683,
+    "start": 3267,
+    "end": 3269
+  },
+  {
+    "speech": "[ messinger laughs ]",
+    "index": 684,
+    "start": 3297,
+    "end": 3299
+  },
+  {
+    "speech": "and then you just",
+    "index": 685,
+    "start": 3303,
+    "end": 3306
+  },
+  {
+    "speech": "fall",
+    "index": 686,
+    "start": 3305,
+    "end": 3307
+  },
+  {
+    "speech": "cassiel: fall? seth: dive",
+    "index": 687,
+    "start": 3307,
+    "end": 3309
+  },
+  {
+    "speech": "you make up your mind to do it",
+    "index": 688,
+    "start": 3309,
+    "end": 3312
+  },
+  {
+    "speech": "and you do it",
+    "index": 689,
+    "start": 3312,
+    "end": 3314
+  },
+  {
+    "speech": "and when you wake up, you're",
+    "index": 690,
+    "start": 3314,
+    "end": 3317
+  },
+  {
+    "speech": "yes",
+    "index": 691,
+    "start": 3317,
+    "end": 3319
+  },
+  {
+    "speech": "cassiel: to smell the air",
+    "index": 692,
+    "start": 3320,
+    "end": 3323
+  },
+  {
+    "speech": "seth: taste water",
+    "index": 693,
+    "start": 3323,
+    "end": 3325
+  },
+  {
+    "speech": "cassiel: read a newspaper",
+    "index": 694,
+    "start": 3324,
+    "end": 3326
+  },
+  {
+    "speech": "to lie",
+    "index": 695,
+    "start": 3326,
+    "end": 3327
+  },
+  {
+    "speech": "through your teeth",
+    "index": 696,
+    "start": 3327,
+    "end": 3329
+  },
+  {
+    "speech": "to feed the dog",
+    "index": 697,
+    "start": 3329,
+    "end": 3330
+  },
+  {
+    "speech": "touch her hair",
+    "index": 698,
+    "start": 3332,
+    "end": 3335
+  },
+  {
+    "speech": "what are you waiting for",
+    "index": 699,
+    "start": 3336,
+    "end": 3338
+  },
+  {
+    "speech": "there is so much beauty up here",
+    "index": 700,
+    "start": 3343,
+    "end": 3346
+  },
+  {
+    "speech": "yes",
+    "index": 701,
+    "start": 3347,
+    "end": 3349
+  },
+  {
+    "speech": "here you are again",
+    "index": 702,
+    "start": 3372,
+    "end": 3375
+  },
+  {
+    "speech": "maggie: we'll release your friend messinger tomorrow",
+    "index": 703,
+    "start": 3375,
+    "end": 3378
+  },
+  {
+    "speech": "that's good",
+    "index": 704,
+    "start": 3377,
+    "end": 3379
+  },
+  {
+    "speech": "his family's having a kind of a welcome-home party",
+    "index": 705,
+    "start": 3378,
+    "end": 3383
+  },
+  {
+    "speech": "are you",
+    "index": 706,
+    "start": 3382,
+    "end": 3384
+  },
+  {
+    "speech": "will you be going",
+    "index": 707,
+    "start": 3385,
+    "end": 3387
+  },
+  {
+    "speech": "will you be going",
+    "index": 708,
+    "start": 3387,
+    "end": 3389
+  },
+  {
+    "speech": "this is earl",
+    "index": 709,
+    "start": 3391,
+    "end": 3393
+  },
+  {
+    "speech": "he told me",
+    "index": 710,
+    "start": 3392,
+    "end": 3394
+  },
+  {
+    "speech": "what else does he tell you",
+    "index": 711,
+    "start": 3394,
+    "end": 3396
+  },
+  {
+    "speech": "he worries that you never sleep. and he loves to see you smile",
+    "index": 712,
+    "start": 3396,
+    "end": 3400
+  },
+  {
+    "speech": "maggie: sometimes i think earl's the only one who understands me",
+    "index": 713,
+    "start": 3400,
+    "end": 3404
+  },
+  {
+    "speech": "seth: what about your boyfriend",
+    "index": 714,
+    "start": 3403,
+    "end": 3405
+  },
+  {
+    "speech": "do you love him",
+    "index": 715,
+    "start": 3405,
+    "end": 3407
+  },
+  {
+    "speech": "love? i don't know",
+    "index": 716,
+    "start": 3409,
+    "end": 3411
+  },
+  {
+    "speech": "what does that mean",
+    "index": 717,
+    "start": 3411,
+    "end": 3413
+  },
+  {
+    "speech": "i was hoping you could tell me",
+    "index": 718,
+    "start": 3413,
+    "end": 3416
+  },
+  {
+    "speech": "it's a word",
+    "index": 719,
+    "start": 3416,
+    "end": 3419
+  },
+  {
+    "speech": "that describes a chemical react",
+    "index": 720,
+    "start": 3418,
+    "end": 3422
+  },
+  {
+    "speech": "it's just crap. i'm full of crap",
+    "index": 721,
+    "start": 3422,
+    "end": 3426
+  },
+  {
+    "speech": "i wait all day, just hoping for one more minute with you",
+    "index": 722,
+    "start": 3426,
+    "end": 3431
+  },
+  {
+    "speech": "and i don't even know you",
+    "index": 723,
+    "start": 3430,
+    "end": 3432
+  },
+  {
+    "speech": "what do you want to know",
+    "index": 724,
+    "start": 3432,
+    "end": 3435
+  },
+  {
+    "speech": "why you wear the same clothes all the time",
+    "index": 725,
+    "start": 3436,
+    "end": 3438
+  },
+  {
+    "speech": "why won't you give me your phone number",
+    "index": 726,
+    "start": 3437,
+    "end": 3441
+  },
+  {
+    "speech": "are you married",
+    "index": 727,
+    "start": 3441,
+    "end": 3443
+  },
+  {
+    "speech": "no",
+    "index": 728,
+    "start": 3442,
+    "end": 3444
+  },
+  {
+    "speech": "are you homeless",
+    "index": 729,
+    "start": 3444,
+    "end": 3446
+  },
+  {
+    "speech": "no",
+    "index": 730,
+    "start": 3447,
+    "end": 3449
+  },
+  {
+    "speech": "are you a drummer",
+    "index": 731,
+    "start": 3449,
+    "end": 3451
+  },
+  {
+    "speech": "why don't you ever touch me",
+    "index": 732,
+    "start": 3455,
+    "end": 3458
+  },
+  {
+    "speech": "i don't want to hurt you",
+    "index": 733,
+    "start": 3460,
+    "end": 3463
+  },
+  {
+    "speech": "you won't hurt me",
+    "index": 734,
+    "start": 3465,
+    "end": 3467
+  },
+  {
+    "speech": "did you feel that",
+    "index": 735,
+    "start": 3490,
+    "end": 3492
+  },
+  {
+    "speech": "if i could make you understand",
+    "index": 736,
+    "start": 3504,
+    "end": 3507
+  },
+  {
+    "speech": "i understand",
+    "index": 737,
+    "start": 3510,
+    "end": 3512
+  },
+  {
+    "speech": "i'll see you around",
+    "index": 738,
+    "start": 3516,
+    "end": 3518
+  },
+  {
+    "speech": "messinger: hey, doc",
+    "index": 739,
+    "start": 3579,
+    "end": 3582
+  },
+  {
+    "speech": "no, give me the whole package. come here",
+    "index": 740,
+    "start": 3583,
+    "end": 3587
+  },
+  {
+    "speech": "maggie: hi. - thanks for coming",
+    "index": 741,
+    "start": 3587,
+    "end": 3589
+  },
+  {
+    "speech": "maggie: you look great",
+    "index": 742,
+    "start": 3588,
+    "end": 3591
+  },
+  {
+    "speech": "is this heaven",
+    "index": 743,
+    "start": 3591,
+    "end": 3593
+  },
+  {
+    "speech": "messinger: look at this",
+    "index": 744,
+    "start": 3593,
+    "end": 3595
+  },
+  {
+    "speech": "come on, let's meet some people",
+    "index": 745,
+    "start": 3598,
+    "end": 3601
+  },
+  {
+    "speech": "messinger: you got an appetite",
+    "index": 746,
+    "start": 3600,
+    "end": 3603
+  },
+  {
+    "speech": "have a beer, seth",
+    "index": 747,
+    "start": 3606,
+    "end": 3609
+  },
+  {
+    "speech": "teresa: where you from",
+    "index": 748,
+    "start": 3608,
+    "end": 3610
+  },
+  {
+    "speech": "up",
+    "index": 749,
+    "start": 3611,
+    "end": 3612
+  },
+  {
+    "speech": "messinger: north. uh, canada",
+    "index": 750,
+    "start": 3612,
+    "end": 3615
+  },
+  {
+    "speech": "hannah: listen. can you hear",
+    "index": 751,
+    "start": 3621,
+    "end": 3623
+  },
+  {
+    "speech": "i'm growing",
+    "index": 752,
+    "start": 3623,
+    "end": 3625
+  },
+  {
+    "speech": "teresa: smile, hannah",
+    "index": 753,
+    "start": 3625,
+    "end": 3627
+  },
+  {
+    "speech": "how long have you known seth",
+    "index": 754,
+    "start": 3635,
+    "end": 3638
+  },
+  {
+    "speech": "not very long",
+    "index": 755,
+    "start": 3639,
+    "end": 3641
+  },
+  {
+    "speech": "but i feel like i've known him forever",
+    "index": 756,
+    "start": 3641,
+    "end": 3644
+  },
+  {
+    "speech": "teresa: honey, that hurts",
+    "index": 757,
+    "start": 3645,
+    "end": 3647
+  },
+  {
+    "speech": "you're just like grandpa",
+    "index": 758,
+    "start": 3649,
+    "end": 3651
+  },
+  {
+    "speech": "teresa: come on",
+    "index": 759,
+    "start": 3652,
+    "end": 3654
+  },
+  {
+    "speech": "teresa: let's see if the cookies are done",
+    "index": 760,
+    "start": 3654,
+    "end": 3656
+  },
+  {
+    "speech": "hannah: come on, seth",
+    "index": 761,
+    "start": 3656,
+    "end": 3658
+  },
+  {
+    "speech": "seth: can i help you? teresa: yeah, great",
+    "index": 762,
+    "start": 3657,
+    "end": 3660
+  },
+  {
+    "speech": "how did you two meet",
+    "index": 763,
+    "start": 3664,
+    "end": 3666
+  },
+  {
+    "speech": "he works with me over at the site. construction work",
+    "index": 764,
+    "start": 3667,
+    "end": 3671
+  },
+  {
+    "speech": "i thought he was a messenger",
+    "index": 765,
+    "start": 3671,
+    "end": 3673
+  },
+  {
+    "speech": "yeah, he's one of those",
+    "index": 766,
+    "start": 3673,
+    "end": 3676
+  },
+  {
+    "speech": "hyphenates",
+    "index": 767,
+    "start": 3675,
+    "end": 3677
+  },
+  {
+    "speech": "i'll be right back",
+    "index": 768,
+    "start": 3677,
+    "end": 3679
+  },
+  {
+    "speech": "here, can you cut this up",
+    "index": 769,
+    "start": 3716,
+    "end": 3719
+  },
+  {
+    "speech": "so in what province in canada were you born",
+    "index": 770,
+    "start": 3725,
+    "end": 3729
+  },
+  {
+    "speech": "i wasn't born in canada",
+    "index": 771,
+    "start": 3729,
+    "end": 3732
+  },
+  {
+    "speech": "what are your parents' names",
+    "index": 772,
+    "start": 3735,
+    "end": 3737
+  },
+  {
+    "speech": "no parents",
+    "index": 773,
+    "start": 3744,
+    "end": 3747
+  },
+  {
+    "speech": "you have very delicate hands for a construction worker",
+    "index": 774,
+    "start": 3753,
+    "end": 3757
+  },
+  {
+    "speech": "i'm not a construction worker",
+    "index": 775,
+    "start": 3756,
+    "end": 3758
+  },
+  {
+    "speech": "very pale hands. let me see",
+    "index": 776,
+    "start": 3758,
+    "end": 3761
+  },
+  {
+    "speech": "seth: why did you do that? maggie: let me see your hand",
+    "index": 777,
+    "start": 3763,
+    "end": 3767
+  },
+  {
+    "speech": "no",
+    "index": 778,
+    "start": 3766,
+    "end": 3768
+  },
+  {
+    "speech": "maggie: what's your last name",
+    "index": 779,
+    "start": 3769,
+    "end": 3771
+  },
+  {
+    "speech": "you know my last name",
+    "index": 780,
+    "start": 3770,
+    "end": 3772
+  },
+  {
+    "speech": "i don't",
+    "index": 781,
+    "start": 3771,
+    "end": 3774
+  },
+  {
+    "speech": "plate",
+    "index": 782,
+    "start": 3775,
+    "end": 3777
+  },
+  {
+    "speech": "seth plate",
+    "index": 783,
+    "start": 3777,
+    "end": 3779
+  },
+  {
+    "speech": "i cut you",
+    "index": 784,
+    "start": 3784,
+    "end": 3787
+  },
+  {
+    "speech": "i cut you",
+    "index": 785,
+    "start": 3787,
+    "end": 3790
+  },
+  {
+    "speech": "i cut you with that knife. i felt it go in. you felt it",
+    "index": 786,
+    "start": 3791,
+    "end": 3796
+  },
+  {
+    "speech": "not the way you do",
+    "index": 787,
+    "start": 3796,
+    "end": 3798
+  },
+  {
+    "speech": "the way i do? what does that mean",
+    "index": 788,
+    "start": 3798,
+    "end": 3801
+  },
+  {
+    "speech": "you mean the way a doctor does? the way a woman does? what",
+    "index": 789,
+    "start": 3800,
+    "end": 3805
+  },
+  {
+    "speech": "the way",
+    "index": 790,
+    "start": 3804,
+    "end": 3806
+  },
+  {
+    "speech": "a human does",
+    "index": 791,
+    "start": 3806,
+    "end": 3808
+  },
+  {
+    "speech": "i have no sense of touch",
+    "index": 792,
+    "start": 3810,
+    "end": 3812
+  },
+  {
+    "speech": "you feel that",
+    "index": 793,
+    "start": 3813,
+    "end": 3814
+  },
+  {
+    "speech": "don't be frightened",
+    "index": 794,
+    "start": 3814,
+    "end": 3816
+  },
+  {
+    "speech": "you freak",
+    "index": 795,
+    "start": 3816,
+    "end": 3818
+  },
+  {
+    "speech": "you liar",
+    "index": 796,
+    "start": 3817,
+    "end": 3819
+  },
+  {
+    "speech": "who-- what are you",
+    "index": 797,
+    "start": 3819,
+    "end": 3821
+  },
+  {
+    "speech": "i came to take mr. balford",
+    "index": 798,
+    "start": 3821,
+    "end": 3823
+  },
+  {
+    "speech": "and i saw you",
+    "index": 799,
+    "start": 3823,
+    "end": 3826
+  },
+  {
+    "speech": "i couldn't take my eyes off you",
+    "index": 800,
+    "start": 3827,
+    "end": 3830
+  },
+  {
+    "speech": "how you fought for him",
+    "index": 801,
+    "start": 3830,
+    "end": 3833
+  },
+  {
+    "speech": "and you looked right at me",
+    "index": 802,
+    "start": 3834,
+    "end": 3836
+  },
+  {
+    "speech": "iike i was a man",
+    "index": 803,
+    "start": 3836,
+    "end": 3839
+  },
+  {
+    "speech": "maggie: \"to take mr. balford\"? seth: i was there",
+    "index": 804,
+    "start": 3838,
+    "end": 3842
+  },
+  {
+    "speech": " we're always there in every room. - what are you talking about",
+    "index": 805,
+    "start": 3841,
+    "end": 3846
+  },
+  {
+    "speech": "i was there in the stairwell",
+    "index": 806,
+    "start": 3846,
+    "end": 3848
+  },
+  {
+    "speech": "when you cried for your patient",
+    "index": 807,
+    "start": 3848,
+    "end": 3851
+  },
+  {
+    "speech": "and i touched you. remember",
+    "index": 808,
+    "start": 3850,
+    "end": 3853
+  },
+  {
+    "speech": "why are you doing this",
+    "index": 809,
+    "start": 3854,
+    "end": 3857
+  },
+  {
+    "speech": "because i'm in love with you",
+    "index": 810,
+    "start": 3857,
+    "end": 3860
+  },
+  {
+    "speech": "i don't believe you",
+    "index": 811,
+    "start": 3867,
+    "end": 3869
+  },
+  {
+    "speech": "do you feel that",
+    "index": 812,
+    "start": 3869,
+    "end": 3871
+  },
+  {
+    "speech": "you don't want to believe me",
+    "index": 813,
+    "start": 3873,
+    "end": 3876
+  },
+  {
+    "speech": "i cannot conceive of it",
+    "index": 814,
+    "start": 3875,
+    "end": 3878
+  },
+  {
+    "speech": "just get out",
+    "index": 815,
+    "start": 3879,
+    "end": 3881
+  },
+  {
+    "speech": "get out",
+    "index": 816,
+    "start": 3882,
+    "end": 3884
+  },
+  {
+    "speech": "aid: doctor",
+    "index": 817,
+    "start": 3931,
+    "end": 3933
+  },
+  {
+    "speech": "aid: doctor",
+    "index": 818,
+    "start": 3935,
+    "end": 3937
+  },
+  {
+    "speech": "[ earl barks ]",
+    "index": 819,
+    "start": 3971,
+    "end": 3973
+  },
+  {
+    "speech": "maggie: hello",
+    "index": 820,
+    "start": 3981,
+    "end": 3983
+  },
+  {
+    "speech": "maggie: seth",
+    "index": 821,
+    "start": 3989,
+    "end": 3991
+  },
+  {
+    "speech": "are you here",
+    "index": 822,
+    "start": 3993,
+    "end": 3996
+  },
+  {
+    "speech": "i want to see you",
+    "index": 823,
+    "start": 4049,
+    "end": 4052
+  },
+  {
+    "speech": "let me see you",
+    "index": 824,
+    "start": 4053,
+    "end": 4056
+  },
+  {
+    "speech": "just stay",
+    "index": 825,
+    "start": 4084,
+    "end": 4086
+  },
+  {
+    "speech": "just stay until i fall asleep",
+    "index": 826,
+    "start": 4088,
+    "end": 4091
+  },
+  {
+    "speech": "oh, yes",
+    "index": 827,
+    "start": 4126,
+    "end": 4128
+  },
+  {
+    "speech": "thank you",
+    "index": 828,
+    "start": 4130,
+    "end": 4132
+  },
+  {
+    "speech": "the baby can't sleep",
+    "index": 829,
+    "start": 4152,
+    "end": 4155
+  },
+  {
+    "speech": "has anyone ever seen the baby sleep",
+    "index": 830,
+    "start": 4154,
+    "end": 4157
+  },
+  {
+    "speech": "anne: i don't know. let's check him out",
+    "index": 831,
+    "start": 4156,
+    "end": 4160
+  },
+  {
+    "speech": "anne: choanal atresia",
+    "index": 832,
+    "start": 4168,
+    "end": 4170
+  },
+  {
+    "speech": "anne: there's hardly any air getting through",
+    "index": 833,
+    "start": 4169,
+    "end": 4172
+  },
+  {
+    "speech": "how did you know",
+    "index": 834,
+    "start": 4172,
+    "end": 4174
+  },
+  {
+    "speech": "i just",
+    "index": 835,
+    "start": 4175,
+    "end": 4177
+  },
+  {
+    "speech": "knew",
+    "index": 836,
+    "start": 4178,
+    "end": 4180
+  },
+  {
+    "speech": "[ knock on door ]",
+    "index": 837,
+    "start": 4201,
+    "end": 4203
+  },
+  {
+    "speech": "jordan: maggie",
+    "index": 838,
+    "start": 4204,
+    "end": 4206
+  },
+  {
+    "speech": "yeah",
+    "index": 839,
+    "start": 4206,
+    "end": 4208
+  },
+  {
+    "speech": "jordan: are you alone",
+    "index": 840,
+    "start": 4207,
+    "end": 4209
+  },
+  {
+    "speech": "yeah",
+    "index": 841,
+    "start": 4209,
+    "end": 4211
+  },
+  {
+    "speech": "jordan: pretty intuitive call on the baby",
+    "index": 842,
+    "start": 4214,
+    "end": 4217
+  },
+  {
+    "speech": "maggie: think so",
+    "index": 843,
+    "start": 4216,
+    "end": 4219
+  },
+  {
+    "speech": "i couldn't have done it better",
+    "index": 844,
+    "start": 4219,
+    "end": 4221
+  },
+  {
+    "speech": "well, that's a compliment",
+    "index": 845,
+    "start": 4221,
+    "end": 4224
+  },
+  {
+    "speech": "what are you doing",
+    "index": 846,
+    "start": 4237,
+    "end": 4240
+  },
+  {
+    "speech": "i'm spending time with you",
+    "index": 847,
+    "start": 4239,
+    "end": 4241
+  },
+  {
+    "speech": "will you marry me",
+    "index": 848,
+    "start": 4243,
+    "end": 4246
+  },
+  {
+    "speech": "we can finally get up to tahoe",
+    "index": 849,
+    "start": 4246,
+    "end": 4248
+  },
+  {
+    "speech": "get married on the nevada side",
+    "index": 850,
+    "start": 4248,
+    "end": 4250
+  },
+  {
+    "speech": "honeymoon and be back before we miss a case",
+    "index": 851,
+    "start": 4249,
+    "end": 4252
+  },
+  {
+    "speech": "what do you want me to do? get down on my knees",
+    "index": 852,
+    "start": 4254,
+    "end": 4257
+  },
+  {
+    "speech": "what do you want me to say",
+    "index": 853,
+    "start": 4257,
+    "end": 4259
+  },
+  {
+    "speech": "we belong together",
+    "index": 854,
+    "start": 4259,
+    "end": 4261
+  },
+  {
+    "speech": "we're the same species",
+    "index": 855,
+    "start": 4261,
+    "end": 4264
+  },
+  {
+    "speech": "i'm not",
+    "index": 856,
+    "start": 4265,
+    "end": 4267
+  },
+  {
+    "speech": "i'm not very good at matters of the heart. i mean",
+    "index": 857,
+    "start": 4269,
+    "end": 4273
+  },
+  {
+    "speech": "the proverbial heart",
+    "index": 858,
+    "start": 4273,
+    "end": 4275
+  },
+  {
+    "speech": "please be my wife",
+    "index": 859,
+    "start": 4278,
+    "end": 4280
+  },
+  {
+    "speech": "jordan: just",
+    "index": 860,
+    "start": 4280,
+    "end": 4282
+  },
+  {
+    "speech": "just think about it",
+    "index": 861,
+    "start": 4283,
+    "end": 4286
+  },
+  {
+    "speech": "maggie: breathe in",
+    "index": 862,
+    "start": 4300,
+    "end": 4302
+  },
+  {
+    "speech": "breathe in",
+    "index": 863,
+    "start": 4305,
+    "end": 4307
+  },
+  {
+    "speech": "i'm good",
+    "index": 864,
+    "start": 4319,
+    "end": 4321
+  },
+  {
+    "speech": "i don't understand a god who would let us meet, if we could never be together",
+    "index": 865,
+    "start": 4327,
+    "end": 4333
+  },
+  {
+    "speech": "he didn't tell you",
+    "index": 866,
+    "start": 4335,
+    "end": 4337
+  },
+  {
+    "speech": "tell me what",
+    "index": 867,
+    "start": 4340,
+    "end": 4342
+  },
+  {
+    "speech": "maybe you should ask him",
+    "index": 868,
+    "start": 4342,
+    "end": 4344
+  },
+  {
+    "speech": "no, i'm asking you",
+    "index": 869,
+    "start": 4344,
+    "end": 4346
+  },
+  {
+    "speech": "seth knows no fear",
+    "index": 870,
+    "start": 4356,
+    "end": 4359
+  },
+  {
+    "speech": "no pain",
+    "index": 871,
+    "start": 4358,
+    "end": 4361
+  },
+  {
+    "speech": "no hunger",
+    "index": 872,
+    "start": 4360,
+    "end": 4362
+  },
+  {
+    "speech": "he hears music in the sunrise",
+    "index": 873,
+    "start": 4363,
+    "end": 4366
+  },
+  {
+    "speech": "but he'd give it all up",
+    "index": 874,
+    "start": 4367,
+    "end": 4370
+  },
+  {
+    "speech": "he loves you that much",
+    "index": 875,
+    "start": 4369,
+    "end": 4371
+  },
+  {
+    "speech": "i don't understand",
+    "index": 876,
+    "start": 4373,
+    "end": 4376
+  },
+  {
+    "speech": "he can fall",
+    "index": 877,
+    "start": 4378,
+    "end": 4380
+  },
+  {
+    "speech": "he can give up his existence as he knows it",
+    "index": 878,
+    "start": 4380,
+    "end": 4383
+  },
+  {
+    "speech": "he can give up eternity and become",
+    "index": 879,
+    "start": 4383,
+    "end": 4387
+  },
+  {
+    "speech": "one of us",
+    "index": 880,
+    "start": 4386,
+    "end": 4388
+  },
+  {
+    "speech": "it's up to you",
+    "index": 881,
+    "start": 4388,
+    "end": 4390
+  },
+  {
+    "speech": "how do you know this",
+    "index": 882,
+    "start": 4391,
+    "end": 4393
+  },
+  {
+    "speech": "because i did it",
+    "index": 883,
+    "start": 4398,
+    "end": 4401
+  },
+  {
+    "speech": "seth",
+    "index": 884,
+    "start": 4420,
+    "end": 4422
+  },
+  {
+    "speech": "seth",
+    "index": 885,
+    "start": 4427,
+    "end": 4428
+  },
+  {
+    "speech": "seth",
+    "index": 886,
+    "start": 4430,
+    "end": 4432
+  },
+  {
+    "speech": "seth, i need to talk to you",
+    "index": 887,
+    "start": 4436,
+    "end": 4438
+  },
+  {
+    "speech": "seth, please",
+    "index": 888,
+    "start": 4442,
+    "end": 4445
+  },
+  {
+    "speech": "maggie: please be here",
+    "index": 889,
+    "start": 4447,
+    "end": 4449
+  },
+  {
+    "speech": "maggie: god, help me through this",
+    "index": 890,
+    "start": 4450,
+    "end": 4453
+  },
+  {
+    "speech": "you are so beautiful",
+    "index": 891,
+    "start": 4463,
+    "end": 4465
+  },
+  {
+    "speech": "maggie: you'll always be that way",
+    "index": 892,
+    "start": 4467,
+    "end": 4469
+  },
+  {
+    "speech": "jordan asked me to go away with him",
+    "index": 893,
+    "start": 4472,
+    "end": 4475
+  },
+  {
+    "speech": "and get married",
+    "index": 894,
+    "start": 4474,
+    "end": 4476
+  },
+  {
+    "speech": "he knows me",
+    "index": 895,
+    "start": 4478,
+    "end": 4480
+  },
+  {
+    "speech": "he knows the demands of my work",
+    "index": 896,
+    "start": 4481,
+    "end": 4484
+  },
+  {
+    "speech": "you don't love him",
+    "index": 897,
+    "start": 4483,
+    "end": 4486
+  },
+  {
+    "speech": "he and i are the same",
+    "index": 898,
+    "start": 4486,
+    "end": 4489
+  },
+  {
+    "speech": "and i want that",
+    "index": 899,
+    "start": 4490,
+    "end": 4492
+  },
+  {
+    "speech": "and i want somebody who can feel my hand when i touch him",
+    "index": 900,
+    "start": 4495,
+    "end": 4500
+  },
+  {
+    "speech": "but you can feel me",
+    "index": 901,
+    "start": 4500,
+    "end": 4503
+  },
+  {
+    "speech": "you felt me",
+    "index": 902,
+    "start": 4502,
+    "end": 4505
+  },
+  {
+    "speech": "i want to say goodbye",
+    "index": 903,
+    "start": 4506,
+    "end": 4508
+  },
+  {
+    "speech": "i don't want to see you again",
+    "index": 904,
+    "start": 4509,
+    "end": 4512
+  },
+  {
+    "speech": "[ heartbeat ]",
+    "index": 905,
+    "start": 4657,
+    "end": 4659
+  },
+  {
+    "speech": "[ indistinct voices ]",
+    "index": 906,
+    "start": 4681,
+    "end": 4683
+  },
+  {
+    "speech": "[ workers whistle ]",
+    "index": 907,
+    "start": 4725,
+    "end": 4727
+  },
+  {
+    "speech": "worker: hey, buddy",
+    "index": 908,
+    "start": 4743,
+    "end": 4745
+  },
+  {
+    "speech": "worker: you can't be in here",
+    "index": 909,
+    "start": 4745,
+    "end": 4747
+  },
+  {
+    "speech": "do you see me",
+    "index": 910,
+    "start": 4747,
+    "end": 4749
+  },
+  {
+    "speech": "do you see me",
+    "index": 911,
+    "start": 4750,
+    "end": 4752
+  },
+  {
+    "speech": "can you see me",
+    "index": 912,
+    "start": 4752,
+    "end": 4754
+  },
+  {
+    "speech": "worker: we can see you",
+    "index": 913,
+    "start": 4754,
+    "end": 4756
+  },
+  {
+    "speech": "is this blood",
+    "index": 914,
+    "start": 4757,
+    "end": 4759
+  },
+  {
+    "speech": "this is blood",
+    "index": 915,
+    "start": 4758,
+    "end": 4760
+  },
+  {
+    "speech": "is it red",
+    "index": 916,
+    "start": 4759,
+    "end": 4762
+  },
+  {
+    "speech": "red",
+    "index": 917,
+    "start": 4761,
+    "end": 4763
+  },
+  {
+    "speech": "is it red",
+    "index": 918,
+    "start": 4762,
+    "end": 4765
+  },
+  {
+    "speech": "color",
+    "index": 919,
+    "start": 4765,
+    "end": 4767
+  },
+  {
+    "speech": "worker: what color were the drugs you took",
+    "index": 920,
+    "start": 4767,
+    "end": 4770
+  },
+  {
+    "speech": "worker: better get your butt out of here",
+    "index": 921,
+    "start": 4770,
+    "end": 4772
+  },
+  {
+    "speech": "you got somewhere to go",
+    "index": 922,
+    "start": 4772,
+    "end": 4774
+  },
+  {
+    "speech": "maggie",
+    "index": 923,
+    "start": 4777,
+    "end": 4779
+  },
+  {
+    "speech": "maggie",
+    "index": 924,
+    "start": 4782,
+    "end": 4784
+  },
+  {
+    "speech": "[ seth sings ] down and down and down i go",
+    "index": 925,
+    "start": 4790,
+    "end": 4793
+  },
+  {
+    "speech": "round and round and round i go",
+    "index": 926,
+    "start": 4793,
+    "end": 4796
+  },
+  {
+    "speech": "round and spin",
+    "index": 927,
+    "start": 4796,
+    "end": 4798
+  },
+  {
+    "speech": "loving the spin i'm in",
+    "index": 928,
+    "start": 4797,
+    "end": 4800
+  },
+  {
+    "speech": "loving that old black magic",
+    "index": 929,
+    "start": 4800,
+    "end": 4803
+  },
+  {
+    "speech": "called love",
+    "index": 930,
+    "start": 4803,
+    "end": 4805
+  },
+  {
+    "speech": "love",
+    "index": 931,
+    "start": 4806,
+    "end": 4809
+  },
+  {
+    "speech": "seth: hi",
+    "index": 932,
+    "start": 4809,
+    "end": 4811
+  },
+  {
+    "speech": "hello",
+    "index": 933,
+    "start": 4813,
+    "end": 4815
+  },
+  {
+    "speech": "i was wondering if you could tell me how to get to the county hospital",
+    "index": 934,
+    "start": 4820,
+    "end": 4824
+  },
+  {
+    "speech": "[ in foreign language ]",
+    "index": 935,
+    "start": 4825,
+    "end": 4827
+  },
+  {
+    "speech": "[ siren ]",
+    "index": 936,
+    "start": 4834,
+    "end": 4836
+  },
+  {
+    "speech": "nurse: can i help you, sir",
+    "index": 937,
+    "start": 4865,
+    "end": 4867
+  },
+  {
+    "speech": "i'll just take a moment to catch my breath",
+    "index": 938,
+    "start": 4866,
+    "end": 4870
+  },
+  {
+    "speech": "breath",
+    "index": 939,
+    "start": 4870,
+    "end": 4872
+  },
+  {
+    "speech": "maggie rice",
+    "index": 940,
+    "start": 4874,
+    "end": 4876
+  },
+  {
+    "speech": "are you a patient",
+    "index": 941,
+    "start": 4877,
+    "end": 4879
+  },
+  {
+    "speech": "no. i just need to find her, please",
+    "index": 942,
+    "start": 4879,
+    "end": 4881
+  },
+  {
+    "speech": "you'll have to call her office. someone there can help you",
+    "index": 943,
+    "start": 4880,
+    "end": 4884
+  },
+  {
+    "speech": "do you know where she is",
+    "index": 944,
+    "start": 4883,
+    "end": 4885
+  },
+  {
+    "speech": "no, sir, i do not know where she is",
+    "index": 945,
+    "start": 4885,
+    "end": 4888
+  },
+  {
+    "speech": "you have this computer",
+    "index": 946,
+    "start": 4890,
+    "end": 4893
+  },
+  {
+    "speech": "and all this technology. can't you look her up",
+    "index": 947,
+    "start": 4893,
+    "end": 4896
+  },
+  {
+    "speech": "anne",
+    "index": 948,
+    "start": 4896,
+    "end": 4898
+  },
+  {
+    "speech": "where's maggie",
+    "index": 949,
+    "start": 4899,
+    "end": 4901
+  },
+  {
+    "speech": "so you're a friend of maggie's",
+    "index": 950,
+    "start": 4905,
+    "end": 4908
+  },
+  {
+    "speech": "anne: what happened to you",
+    "index": 951,
+    "start": 4909,
+    "end": 4911
+  },
+  {
+    "speech": "sorry",
+    "index": 952,
+    "start": 4910,
+    "end": 4912
+  },
+  {
+    "speech": "it's okay",
+    "index": 953,
+    "start": 4912,
+    "end": 4914
+  },
+  {
+    "speech": "i fell",
+    "index": 954,
+    "start": 4916,
+    "end": 4918
+  },
+  {
+    "speech": "evidently. off a train",
+    "index": 955,
+    "start": 4917,
+    "end": 4921
+  },
+  {
+    "speech": "i fell in love",
+    "index": 956,
+    "start": 4921,
+    "end": 4923
+  },
+  {
+    "speech": "please help me find her",
+    "index": 957,
+    "start": 4930,
+    "end": 4932
+  },
+  {
+    "speech": "she went to lake tahoe. her uncle has a cabin on the nevada side",
+    "index": 958,
+    "start": 4936,
+    "end": 4940
+  },
+  {
+    "speech": "anne: wait",
+    "index": 959,
+    "start": 4940,
+    "end": 4942
+  },
+  {
+    "speech": "cassiel",
+    "index": 960,
+    "start": 4971,
+    "end": 4973
+  },
+  {
+    "speech": "are you there",
+    "index": 961,
+    "start": 4973,
+    "end": 4975
+  },
+  {
+    "speech": "[ car horn ]",
+    "index": 962,
+    "start": 4976,
+    "end": 4977
+  },
+  {
+    "speech": "hello",
+    "index": 963,
+    "start": 4983,
+    "end": 4985
+  },
+  {
+    "speech": "driver: where you headed",
+    "index": 964,
+    "start": 5037,
+    "end": 5039
+  },
+  {
+    "speech": "tahoe",
+    "index": 965,
+    "start": 5039,
+    "end": 5041
+  },
+  {
+    "speech": "reno",
+    "index": 966,
+    "start": 5042,
+    "end": 5044
+  },
+  {
+    "speech": "tahoe",
+    "index": 967,
+    "start": 5043,
+    "end": 5045
+  },
+  {
+    "speech": "i'm going to reno",
+    "index": 968,
+    "start": 5045,
+    "end": 5047
+  },
+  {
+    "speech": "i'm going to tahoe",
+    "index": 969,
+    "start": 5046,
+    "end": 5049
+  },
+  {
+    "speech": "hop in. we'll figure it out when we get there",
+    "index": 970,
+    "start": 5048,
+    "end": 5052
+  },
+  {
+    "speech": "am i too late",
+    "index": 971,
+    "start": 5182,
+    "end": 5185
+  },
+  {
+    "speech": "too late",
+    "index": 972,
+    "start": 5185,
+    "end": 5187
+  },
+  {
+    "speech": "jordan",
+    "index": 973,
+    "start": 5187,
+    "end": 5189
+  },
+  {
+    "speech": "i couldn't marry jordan",
+    "index": 974,
+    "start": 5193,
+    "end": 5195
+  },
+  {
+    "speech": "i'm in love with you",
+    "index": 975,
+    "start": 5197,
+    "end": 5200
+  },
+  {
+    "speech": "what happened",
+    "index": 976,
+    "start": 5207,
+    "end": 5209
+  },
+  {
+    "speech": "free will",
+    "index": 977,
+    "start": 5212,
+    "end": 5214
+  },
+  {
+    "speech": "i feel you",
+    "index": 978,
+    "start": 5227,
+    "end": 5230
+  },
+  {
+    "speech": "maggie: do you feel that",
+    "index": 979,
+    "start": 5305,
+    "end": 5307
+  },
+  {
+    "speech": "seth: yes",
+    "index": 980,
+    "start": 5306,
+    "end": 5308
+  },
+  {
+    "speech": "and that",
+    "index": 981,
+    "start": 5309,
+    "end": 5312
+  },
+  {
+    "speech": "how's it feel? tell me what it feels like",
+    "index": 982,
+    "start": 5315,
+    "end": 5318
+  },
+  {
+    "speech": "i can't",
+    "index": 983,
+    "start": 5318,
+    "end": 5320
+  },
+  {
+    "speech": "try",
+    "index": 984,
+    "start": 5321,
+    "end": 5323
+  },
+  {
+    "speech": "warm",
+    "index": 985,
+    "start": 5324,
+    "end": 5326
+  },
+  {
+    "speech": "aching",
+    "index": 986,
+    "start": 5331,
+    "end": 5333
+  },
+  {
+    "speech": "it's okay",
+    "index": 987,
+    "start": 5349,
+    "end": 5351
+  },
+  {
+    "speech": "we fit together",
+    "index": 988,
+    "start": 5353,
+    "end": 5355
+  },
+  {
+    "speech": "i know",
+    "index": 989,
+    "start": 5355,
+    "end": 5357
+  },
+  {
+    "speech": "we were made to fit together",
+    "index": 990,
+    "start": 5356,
+    "end": 5359
+  },
+  {
+    "speech": "seth: i always asked the dying what they liked best about living",
+    "index": 991,
+    "start": 5379,
+    "end": 5383
+  },
+  {
+    "speech": "wrote it down in my book",
+    "index": 992,
+    "start": 5384,
+    "end": 5387
+  },
+  {
+    "speech": "this is it",
+    "index": 993,
+    "start": 5389,
+    "end": 5391
+  },
+  {
+    "speech": "this is what i like best",
+    "index": 994,
+    "start": 5391,
+    "end": 5394
+  },
+  {
+    "speech": "you haven't even started yet",
+    "index": 995,
+    "start": 5394,
+    "end": 5397
+  },
+  {
+    "speech": "we have our whole lives together",
+    "index": 996,
+    "start": 5397,
+    "end": 5400
+  },
+  {
+    "speech": "you and me",
+    "index": 997,
+    "start": 5399,
+    "end": 5401
+  },
+  {
+    "speech": "mr. and mrs. plate",
+    "index": 998,
+    "start": 5401,
+    "end": 5404
+  },
+  {
+    "speech": "[ screams ]",
+    "index": 999,
+    "start": 5438,
+    "end": 5440
+  },
+  {
+    "speech": "[ truck horn ]",
+    "index": 1000,
+    "start": 5668,
+    "end": 5670
+  },
+  {
+    "speech": "seth: maggie",
+    "index": 1001,
+    "start": 5722,
+    "end": 5724
+  },
+  {
+    "speech": "seth",
+    "index": 1002,
+    "start": 5724,
+    "end": 5726
+  },
+  {
+    "speech": " i'll get help. - you're here",
+    "index": 1003,
+    "start": 5725,
+    "end": 5728
+  },
+  {
+    "speech": "maggie: stay. seth: i should get help",
+    "index": 1004,
+    "start": 5728,
+    "end": 5730
+  },
+  {
+    "speech": "maggie: don't go. the driver went",
+    "index": 1005,
+    "start": 5730,
+    "end": 5732
+  },
+  {
+    "speech": "please stay",
+    "index": 1006,
+    "start": 5732,
+    "end": 5734
+  },
+  {
+    "speech": "please stay with me",
+    "index": 1007,
+    "start": 5733,
+    "end": 5736
+  },
+  {
+    "speech": "i'm scared",
+    "index": 1008,
+    "start": 5736,
+    "end": 5738
+  },
+  {
+    "speech": "i screwed up",
+    "index": 1009,
+    "start": 5742,
+    "end": 5744
+  },
+  {
+    "speech": "i wanted to show you everything",
+    "index": 1010,
+    "start": 5745,
+    "end": 5747
+  },
+  {
+    "speech": "you will",
+    "index": 1011,
+    "start": 5747,
+    "end": 5749
+  },
+  {
+    "speech": "you came all this way",
+    "index": 1012,
+    "start": 5752,
+    "end": 5755
+  },
+  {
+    "speech": "i'm sorry",
+    "index": 1013,
+    "start": 5755,
+    "end": 5758
+  },
+  {
+    "speech": "god, no, maggie",
+    "index": 1014,
+    "start": 5758,
+    "end": 5761
+  },
+  {
+    "speech": "to touch you",
+    "index": 1015,
+    "start": 5761,
+    "end": 5763
+  },
+  {
+    "speech": "and to feel you",
+    "index": 1016,
+    "start": 5762,
+    "end": 5764
+  },
+  {
+    "speech": "to be able to hold your hand right now",
+    "index": 1017,
+    "start": 5764,
+    "end": 5768
+  },
+  {
+    "speech": "you know what that means",
+    "index": 1018,
+    "start": 5768,
+    "end": 5770
+  },
+  {
+    "speech": "do you know how much i love you",
+    "index": 1019,
+    "start": 5769,
+    "end": 5773
+  },
+  {
+    "speech": "keep looking at me, okay",
+    "index": 1020,
+    "start": 5776,
+    "end": 5779
+  },
+  {
+    "speech": "look right in my eyes",
+    "index": 1021,
+    "start": 5780,
+    "end": 5782
+  },
+  {
+    "speech": "someone's out there",
+    "index": 1022,
+    "start": 5783,
+    "end": 5785
+  },
+  {
+    "speech": "maggie",
+    "index": 1023,
+    "start": 5785,
+    "end": 5786
+  },
+  {
+    "speech": "don't look at them. please don't you look at them",
+    "index": 1024,
+    "start": 5787,
+    "end": 5791
+  },
+  {
+    "speech": "is this what happens",
+    "index": 1025,
+    "start": 5790,
+    "end": 5793
+  },
+  {
+    "speech": "yes",
+    "index": 1026,
+    "start": 5798,
+    "end": 5800
+  },
+  {
+    "speech": "this is what happens",
+    "index": 1027,
+    "start": 5806,
+    "end": 5808
+  },
+  {
+    "speech": "i'm not afraid",
+    "index": 1028,
+    "start": 5812,
+    "end": 5814
+  },
+  {
+    "speech": "when they ask me",
+    "index": 1029,
+    "start": 5817,
+    "end": 5820
+  },
+  {
+    "speech": "what i liked the best",
+    "index": 1030,
+    "start": 5821,
+    "end": 5823
+  },
+  {
+    "speech": "i'll tell them",
+    "index": 1031,
+    "start": 5824,
+    "end": 5826
+  },
+  {
+    "speech": "it was you",
+    "index": 1032,
+    "start": 5826,
+    "end": 5828
+  },
+  {
+    "speech": "seth: god",
+    "index": 1033,
+    "start": 5856,
+    "end": 5858
+  },
+  {
+    "speech": "i can't see you, but i know you're there",
+    "index": 1034,
+    "start": 5976,
+    "end": 5979
+  },
+  {
+    "speech": "cassiel: i'm sorry",
+    "index": 1035,
+    "start": 5981,
+    "end": 5983
+  },
+  {
+    "speech": "seth: get out",
+    "index": 1036,
+    "start": 5985,
+    "end": 5987
+  },
+  {
+    "speech": "was it you? were you the one? were you there",
+    "index": 1037,
+    "start": 5989,
+    "end": 5992
+  },
+  {
+    "speech": "no",
+    "index": 1038,
+    "start": 5992,
+    "end": 5994
+  },
+  {
+    "speech": "why did he do this",
+    "index": 1039,
+    "start": 5994,
+    "end": 5996
+  },
+  {
+    "speech": "i don't know",
+    "index": 1040,
+    "start": 5996,
+    "end": 5997
+  },
+  {
+    "speech": "because her number was up",
+    "index": 1041,
+    "start": 5997,
+    "end": 5999
+  },
+  {
+    "speech": "what do you want me to say",
+    "index": 1042,
+    "start": 5999,
+    "end": 6002
+  },
+  {
+    "speech": "seth: am i being punished? cassiel: you know better than that",
+    "index": 1043,
+    "start": 6008,
+    "end": 6012
+  },
+  {
+    "speech": "cassiel: that's life",
+    "index": 1044,
+    "start": 6013,
+    "end": 6015
+  },
+  {
+    "speech": "you're living now",
+    "index": 1045,
+    "start": 6016,
+    "end": 6018
+  },
+  {
+    "speech": "and one day",
+    "index": 1046,
+    "start": 6019,
+    "end": 6021
+  },
+  {
+    "speech": "you'll be dying",
+    "index": 1047,
+    "start": 6021,
+    "end": 6023
+  },
+  {
+    "speech": "what's it like",
+    "index": 1048,
+    "start": 6028,
+    "end": 6030
+  },
+  {
+    "speech": "what",
+    "index": 1049,
+    "start": 6031,
+    "end": 6032
+  },
+  {
+    "speech": "warmth",
+    "index": 1050,
+    "start": 6033,
+    "end": 6034
+  },
+  {
+    "speech": "it's wonderful",
+    "index": 1051,
+    "start": 6036,
+    "end": 6038
+  },
+  {
+    "speech": "if you'd known this was going to happen",
+    "index": 1052,
+    "start": 6039,
+    "end": 6042
+  },
+  {
+    "speech": "would you have done it",
+    "index": 1053,
+    "start": 6043,
+    "end": 6045
+  },
+  {
+    "speech": "i would rather have had",
+    "index": 1054,
+    "start": 6050,
+    "end": 6053
+  },
+  {
+    "speech": "one breath of her hair",
+    "index": 1055,
+    "start": 6053,
+    "end": 6056
+  },
+  {
+    "speech": "one kiss of her mouth",
+    "index": 1056,
+    "start": 6059,
+    "end": 6062
+  },
+  {
+    "speech": "one touch of her hand",
+    "index": 1057,
+    "start": 6064,
+    "end": 6066
+  },
+  {
+    "speech": "than an eternity without it",
+    "index": 1058,
+    "start": 6068,
+    "end": 6071
+  },
+  {
+    "speech": "one",
+    "index": 1059,
+    "start": 6073,
+    "end": 6075
+  },
+  {
+    "speech": "subtitles by aravind b [by_agentsmith@yahoo.com]",
+    "index": 1060,
+    "start": 6214,
+    "end": 6571
+  }
+]}

@@ -1,0 +1,68 @@
+body{
+	padding: 0;
+	border: 0;
+	margin: 0;
+  font-family: Arial, Helvetica, sans-serif;  
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+h2 {
+  width: 100%;
+  position: absolute;
+  text-align: center;  
+} 
+
+button{
+  font-size: 8px;
+  padding: 0;
+  margin: 0;  
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: hsl(0, 0%, 90%);
+  outline: none;
+  text-align: center;
+}
+
+button{
+  font-size: 8px;
+  padding: 0;
+  margin: 0;  
+  border: 1px;
+  height: 20px;
+}
+
+input[type="range"] {
+  padding: 0;
+  margin: 0;  
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: hsl(0, 0%, 90%);
+  outline: none;
+  height: 20px;
+}
+
+.timer{
+  font-size: 8px;
+  padding: 0;
+  margin: 0;   
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.area {
+  fill: steelblue;
+}
+
+.seek{
+	/*width: 800px;*/
+}
